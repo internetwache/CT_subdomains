@@ -1,4 +1,4 @@
-# CT_subdomains
+# Certificate Transparency Subdomains
 An hourly updated list of subdomains gathered from certificate transparency logs. 
 
 ## How it works
