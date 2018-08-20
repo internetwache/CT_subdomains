@@ -1,20 +1,20 @@
-# Generated 2018-08-20 06:01:48.892728
+# Generated 2018-08-20 07:02:11.270684
 count,subdomain
-63486517,*
-26713605,www
-4889839,mail
-3058002,webmail
-3003933,webdisk
-2865889,cpanel
-1230747,autodiscover
+63486526,*
+26713920,www
+4889923,mail
+3058069,webmail
+3003998,webdisk
+2865954,cpanel
+1230764,autodiscover
 213229,dev
-156707,test
-151754,m
-139198,blog
+156709,test
+151756,m
+139200,blog
 107671,api
-105674,shop
+105676,shop
 91446,staging
-90405,whm
+90415,whm
 85593,admin
 83150,com
 81243,sni
@@ -23,11 +23,11 @@ count,subdomain
 68267,ftl
 67414,cloud
 58414,smtp
-57702,app
-50404,new
+57709,app
+50406,new
 48823,mobile
 48747,support
-48609,tls
+48612,tls
 46234,ftp
 43126,beta
 40800,multidomain-prober
@@ -38,12 +38,12 @@ count,subdomain
 34387,www.test
 33962,mgames
 33754,gameflex
-33748,www.blog
+33749,www.blog
 33472,liveupdate
 33116,en
 33084,qa
 33034,status
-33029,static
+33030,static
 32590,store
 31244,wp
 28474,1
@@ -56,17 +56,17 @@ count,subdomain
 26072,server
 25586,stage
 25086,pop
-25051,portal
+25052,portal
 25036,remote
 24534,web
 24043,sandbox
 23655,mbox12
 22092,fr
 20963,pop3
-20385,crm
+20386,crm
 20208,my
 20131,www.shop
-19957,www.mail
+19959,www.mail
 19936,vpn
 19641,p
 19459,members
@@ -76,7 +76,7 @@ count,subdomain
 18312,home
 18106,de
 17891,us
-17855,autoconfig
+17856,autoconfig
 17606,core
 17588,info
 16417,r
@@ -89,8 +89,8 @@ count,subdomain
 15158,gay
 14782,uk
 14744,www.m
-14413,ipv6
-14275,email
+14417,ipv6
+14277,email
 14160,stats
 14056,intranet
 14046,files
@@ -100,7 +100,7 @@ count,subdomain
 13785,anycast
 13675,es
 13657,*.r
-13654,chat
+13656,chat
 13651,*.prod.ftl
 13651,*.ftl
 13651,anycast.ftl
@@ -116,7 +116,7 @@ count,subdomain
 12423,images
 11363,redirect
 11306,jp
-11196,piwik
+11197,piwik
 11167,www2
 11115,docs
 10924,preprod
@@ -124,7 +124,7 @@ count,subdomain
 10724,int
 10665,data
 10452,dashboard
-10429,www.new
+10430,www.new
 10401,uat
 10332,tools
 10095,cp
@@ -137,7 +137,7 @@ count,subdomain
 9914,clients
 9741,s
 9737,www.webmail
-9687,go
+9688,go
 9668,at
 9646,video
 9631,ssl
@@ -147,7 +147,7 @@ count,subdomain
 9361,bot
 9320,www.forum
 9284,host
-9191,auth
+9194,auth
 9151,services
 9054,client
 8931,a
@@ -167,7 +167,7 @@ count,subdomain
 8113,photos
 8082,www.cloud
 7989,mysql
-7949,analytics
+7950,analytics
 7942,azurewebsites
 7940,www.store
 7831,owa
@@ -248,7 +248,7 @@ count,subdomain
 5540,ca
 5522,ads
 5501,portfolio
-5422,db
+5423,db
 5353,newsletter
 5337,manage
 5316,virtd
@@ -262,7 +262,7 @@ count,subdomain
 5207,search
 5193,scm
 5169,apple
-5150,mboss
+5152,mboss
 5143,ws
 5099,ww
 5087,box
@@ -341,12 +341,12 @@ count,subdomain
 4179,hub
 4177,backend
 4148,be
-4111,web04
+4119,web04
 4103,kunden
-4075,www.email
+4076,www.email
 4065,gw
 4053,testonly
-4041,oc
+4042,oc
 4022,proxy
 3998,correo
 3996,sms
@@ -421,7 +421,7 @@ count,subdomain
 3252,outlook
 3248,br
 3248,srv
-3242,cdn1
+3244,cdn1
 3234,ch
 3223,fcell
 3202,elearning
@@ -443,7 +443,7 @@ count,subdomain
 3093,vip
 3089,bbs
 3088,radio
-3085,careers
+3087,careers
 3084,admins
 3078,cert
 3068,ns1
@@ -475,8 +475,8 @@ count,subdomain
 2895,order
 2890,operations
 2874,k8s
+2873,join
 2873,neu
-2872,join
 2861,i3
 2840,demo1
 2838,gestion
@@ -708,7 +708,7 @@ count,subdomain
 1851,sql
 1847,player
 1845,tracker
-1833,cdn3
+1835,cdn3
 1830,audio
 1826,health
 1825,srv1
@@ -828,7 +828,7 @@ count,subdomain
 1531,wifi
 1525,demo3
 1524,alumni
-1521,corporate
+1522,corporate
 1520,shared
 1518,bo
 1518,research
@@ -1142,9 +1142,9 @@ count,subdomain
 1063,sky
 1062,reviews
 1062,hass
+1062,v4
 1060,w3
 1058,www.events
-1058,v4
 1057,feeds
 1057,rb
 1057,www.owa
@@ -1676,10 +1676,10 @@ count,subdomain
 723,mails
 723,cdn4
 722,presta
+722,t1
 720,host2
 720,s01
 720,sslvpn
-720,t1
 720,tm
 720,bus222d16
 719,sis
@@ -1692,7 +1692,7 @@ count,subdomain
 714,Lyncdiscover
 714,lightning
 713,east
-712,dt
+713,dt
 711,tg
 711,www.business
 711,p1
@@ -1780,7 +1780,7 @@ count,subdomain
 679,webmail.dev
 679,weill
 678,novosibirsk
-677,matomo
+678,matomo
 676,3g
 676,verkkokauppa
 676,m1
@@ -1879,10 +1879,10 @@ count,subdomain
 637,www.stream
 637,tes
 636,charlotte
+636,request
 636,city
 636,www.nl
 636,znakomstva
-635,request
 635,ceres
 634,webservice
 634,draft
@@ -3329,6 +3329,7 @@ count,subdomain
 367,sni222657
 366,gym
 366,ipa
+366,www.cdn1
 366,athena
 366,investigate
 366,advertising
@@ -3341,7 +3342,6 @@ count,subdomain
 366,silver
 366,sni65905
 366,v2s
-365,www.cdn1
 365,eu-2
 365,rms
 365,bookmarks
@@ -3660,6 +3660,7 @@ count,subdomain
 333,kn
 333,pretest
 333,bnw
+332,staging8
 332,aff
 332,www.instagram
 332,50
@@ -3675,7 +3676,7 @@ count,subdomain
 331,sni143587
 330,garden
 330,pihole
-330,staging8
+330,www.careers
 330,openid
 330,diy
 330,your
@@ -3686,7 +3687,6 @@ count,subdomain
 330,sni147739
 330,simple-staging
 330,golgo
-329,www.careers
 329,www.v3
 329,allegro
 329,essai
@@ -3954,6 +3954,7 @@ count,subdomain
 307,sni225537
 307,cci
 307,rentals
+307,ub
 307,www.srv
 307,away
 307,sni145266
@@ -3992,7 +3993,6 @@ count,subdomain
 304,aps
 304,tutor
 304,ppm
-304,ub
 304,lagrammaticadellanima
 304,s4hana
 303,bag
@@ -5533,6 +5533,7 @@ count,subdomain
 223,testapp
 223,solo
 223,endpointsportal
+223,www.cdn3
 223,redash
 223,mx3
 223,cen
@@ -5547,7 +5548,6 @@ count,subdomain
 223,sdc
 223,holding
 222,teach
-222,www.cdn3
 222,mail.support
 222,rundeck
 222,demo9
@@ -6426,6 +6426,7 @@ count,subdomain
 192,www.review
 192,flux
 192,pps
+192,styleguide
 192,ctrl
 192,acg
 192,businessdoctors
@@ -6458,7 +6459,6 @@ count,subdomain
 191,dino
 191,www.ml
 191,das
-191,styleguide
 191,knowledgebase
 191,bds
 191,haproxy
@@ -8060,6 +8060,7 @@ count,subdomain
 154,calltracking
 154,clanky
 154,d6
+154,www.v4
 154,anuncios
 154,*.wapa
 154,honeywell
@@ -8104,7 +8105,6 @@ count,subdomain
 153,anketa
 153,pestcontrol
 153,smk
-153,www.v4
 153,stv
 153,duo
 153,ppg
@@ -8862,6 +8862,7 @@ count,subdomain
 140,freud
 140,sensors
 140,pit
+140,www.staging8
 140,mwp
 140,www.profile
 140,cpp
@@ -8920,7 +8921,6 @@ count,subdomain
 139,www.websites
 139,cca
 139,questions
-139,www.staging8
 139,meijdebie
 139,navi
 139,policies
