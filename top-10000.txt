@@ -1,12 +1,12 @@
-# Generated 2018-08-23 18:01:53.327619
+# Generated 2018-08-23 19:01:25.669378
 count,subdomain
-63538417,*
-26741057,www
-4895730,mail
+63538450,*
+26741086,www
+4895732,mail
 3062125,webmail
 3007850,webdisk
 2869802,cpanel
-1232296,autodiscover
+1232300,autodiscover
 213458,dev
 156888,test
 151901,m
@@ -31,7 +31,7 @@ count,subdomain
 46275,ftp
 43181,beta
 40800,multidomain-prober
-40500,cdn
+40501,cdn
 36335,secure
 35447,forum
 34491,imap
@@ -55,7 +55,7 @@ count,subdomain
 26112,news
 26094,server
 25609,stage
-25113,pop
+25114,pop
 25075,portal
 25061,remote
 24553,web
@@ -66,8 +66,8 @@ count,subdomain
 20430,crm
 20220,my
 20148,www.shop
-20024,www.mail
-20018,vpn
+20025,www.mail
+20024,vpn
 19673,p
 19517,members
 19383,love
@@ -155,7 +155,7 @@ count,subdomain
 8896,www.admin
 8873,nextcloud
 8836,cn
-8667,download
+8668,download
 8569,testing
 8443,v2
 8421,hosting
@@ -437,7 +437,7 @@ count,subdomain
 3123,tracking
 3119,iserv
 3116,www.secure
-3111,seo
+3112,seo
 3105,image
 3104,catalog
 3104,teste
@@ -639,7 +639,7 @@ count,subdomain
 2095,comet1
 2095,comet3
 2092,ym04
-2088,start
+2089,start
 2084,log
 2079,onpage
 2078,qq
@@ -833,7 +833,7 @@ count,subdomain
 1524,bo
 1523,www.client
 1521,shared
-1518,research
+1519,research
 1517,twitter
 1516,www.login
 1508,www.gallery
@@ -855,7 +855,7 @@ count,subdomain
 1467,api.divercities.staging
 1466,sb
 1465,msoid
-1464,citrix
+1465,citrix
 1464,ams
 1463,directory
 1462,traefik
@@ -1246,9 +1246,9 @@ count,subdomain
 976,zimbra
 976,cd
 976,sam
+976,vcenter
 976,tcceast
 975,atlas
-975,vcenter
 974,cp7
 972,api.staging
 970,www.backup
@@ -5524,6 +5524,7 @@ count,subdomain
 224,idc
 224,vegas
 224,www.360
+224,*.cdn
 224,connecticut
 224,www.aulavirtual
 224,www.opencart
@@ -5544,7 +5545,6 @@ count,subdomain
 223,redash
 223,mx3
 223,cen
-223,*.cdn
 223,cases
 223,www.virtual
 223,sign-in
