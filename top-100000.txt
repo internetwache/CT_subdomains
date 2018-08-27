@@ -1,20 +1,20 @@
-# Generated 2018-08-28 00:02:11.016368
+# Generated 2018-08-28 01:01:52.593215
 count,subdomain
-63586081,*
-26775457,www
-4901705,mail
-3066438,webmail
-3011921,webdisk
-2873878,cpanel
-1234000,autodiscover
-213698,dev
-157064,test
-152122,m
-139481,blog
-107879,api
-105855,shop
+63586186,*
+26775826,www
+4901821,mail
+3066515,webmail
+3012000,webdisk
+2873955,cpanel
+1234032,autodiscover
+213702,dev
+157072,test
+152123,m
+139484,blog
+107880,api
+105857,shop
 91650,staging
-90664,whm
+90668,whm
 85798,admin
 83323,com
 81398,sni
@@ -22,25 +22,25 @@ count,subdomain
 70898,demo
 68353,ftl
 67533,cloud
-58503,smtp
+58504,smtp
 57810,app
 50506,new
 48946,mobile
-48803,support
-48711,tls
-46305,ftp
+48806,support
+48713,tls
+46306,ftp
 43226,beta
 40800,multidomain-prober
 40561,cdn
 36353,secure
 35483,forum
 34511,imap
-34498,www.test
+34501,www.test
 34039,mgames
 33833,www.blog
 33831,gameflex
 33549,liveupdate
-33186,en
+33188,en
 33108,static
 33106,qa
 33041,status
@@ -50,34 +50,34 @@ count,subdomain
 28244,eu
 28051,git
 26526,prod
-26367,www.dev
+26368,www.dev
 26297,wiki
 26145,news
 26106,server
 25635,stage
-25138,pop
+25139,pop
 25093,portal
 25080,remote
-24578,web
+24581,web
 24110,sandbox
 23662,mbox12
 22122,fr
 20989,pop3
-20452,crm
+20454,crm
 20239,my
 20182,www.shop
 20177,vpn
-20062,www.mail
-19696,p
+20063,www.mail
+19697,p
 19534,members
 19384,love
 18931,*.1
 18780,media
-18358,home
+18359,home
 18135,de
 17951,autoconfig
 17906,us
-17864,core
+17866,core
 17623,info
 16444,r
 16434,poczta
@@ -85,11 +85,11 @@ count,subdomain
 16219,apps
 16080,office
 15941,sexy
-15929,aws
+15930,aws
 15158,gay
 14806,uk
 14782,www.m
-14680,ipv6
+14688,ipv6
 14314,email
 14187,stats
 14067,intranet
@@ -167,7 +167,7 @@ count,subdomain
 8121,photos
 8103,www.cloud
 8010,mysql
-7971,azurewebsites
+7972,azurewebsites
 7964,analytics
 7964,www.store
 7843,org
@@ -217,10 +217,10 @@ count,subdomain
 6224,nas
 6201,database
 6180,unrevoked
-6168,geneva
+6170,geneva
 6157,jira
 6061,design
-6042,metricsclient
+6044,metricsclient
 6014,www.api
 5999,loja
 5998,amp
@@ -234,12 +234,12 @@ count,subdomain
 5804,test2
 5776,billing
 5774,community
-5756,www.en
+5757,www.en
 5740,training
 5711,moodle
 5681,web02
 5680,erp
-5672,www.support
+5673,www.support
 5665,in
 5652,lab
 5634,docker
@@ -262,7 +262,7 @@ count,subdomain
 5221,search
 5211,mboss
 5203,scm
-5181,apple
+5182,apple
 5148,ws
 5111,ww
 5093,box
@@ -303,7 +303,7 @@ count,subdomain
 4732,monitor
 4725,www.old
 4715,st
-4704,www.crm
+4705,www.crm
 4676,v1-prober
 4658,lists
 4600,ad
@@ -315,7 +315,7 @@ count,subdomain
 4515,extranet
 4508,internal
 4508,survey
-4501,hp
+4503,hp
 4496,oca
 4485,grafana
 4473,tickets
@@ -324,7 +324,7 @@ count,subdomain
 4425,meet
 4419,*.1.oca
 4401,webdav
-4354,test1
+4356,test1
 4341,www1
 4327,lp
 4324,ds
@@ -457,8 +457,8 @@ count,subdomain
 3037,platform
 3030,builder
 3025,sales
+3022,metricsclient.geneva.core
 3021,play
-3021,metricsclient.geneva.core
 3001,eng
 2984,pg
 2980,www.my
@@ -696,7 +696,7 @@ count,subdomain
 1903,m.uk
 1896,www.site
 1895,auto
-1894,us-east-1
+1895,us-east-1
 1889,family
 1885,xmpp
 1880,try
@@ -780,8 +780,8 @@ count,subdomain
 1637,multistore2
 1636,report
 1635,orders
+1634,cf
 1633,www.tienda
-1633,cf
 1632,ext
 1629,im
 1628,spb
@@ -799,7 +799,7 @@ count,subdomain
 1605,c5
 1602,amazon
 1598,usa
-1596,www.home
+1597,www.home
 1596,av
 1595,weather
 1594,donate
@@ -839,7 +839,7 @@ count,subdomain
 1509,www.gallery
 1508,journal
 1508,server3
-1506,sys
+1507,sys
 1500,painel
 1493,ss
 1493,time
@@ -1164,8 +1164,8 @@ count,subdomain
 1050,lb
 1049,sni196774
 1049,*.eventi4fly
+1046,www.test1
 1046,m2
-1045,www.test1
 1045,www.owncloud
 1044,servicedesk
 1042,signupapp2
@@ -1470,7 +1470,7 @@ count,subdomain
 834,pass
 833,gl
 833,talk
-830,cp2
+833,cp2
 829,location
 829,www4
 828,webservices
@@ -1635,10 +1635,10 @@ count,subdomain
 748,al
 747,investor
 747,fusion
+746,cb
 746,sos
 746,default-aws-dev
 745,diskstation
-744,cb
 743,vps1
 743,john
 743,omsk
@@ -1746,13 +1746,13 @@ count,subdomain
 695,pan
 695,autograph
 694,stream4
+694,nsxManager
 693,tablet
 693,theme
 693,lu
 693,task
 693,s5
 693,0-www
-693,nsxManager
 692,srv01
 691,saas
 691,www.gestion
@@ -1769,7 +1769,7 @@ count,subdomain
 685,alertmanager
 685,webmail.dev
 685,cra3
-683,stories
+684,stories
 683,upgrade
 683,webmaster
 683,sni161805
@@ -1939,6 +1939,7 @@ count,subdomain
 618,r1
 617,pve
 616,dir
+616,ns3
 616,storefront
 615,vk
 615,www.assets
@@ -1951,7 +1952,6 @@ count,subdomain
 614,locatelliriccardo
 613,www.bot
 613,apis
-613,ns3
 612,plan
 612,spam
 611,spark
@@ -2201,6 +2201,7 @@ count,subdomain
 546,www.hotel
 546,sni48780
 546,s6
+546,linkedin
 545,exam
 545,migration
 545,secure2
@@ -2213,7 +2214,6 @@ count,subdomain
 544,shop2
 544,insta
 544,webserver
-544,linkedin
 544,enterpriseregistration
 544,hmanga
 543,zen
@@ -2241,12 +2241,12 @@ count,subdomain
 539,ka
 539,skype
 539,ht
+539,flight
 539,gutscheine
 538,www.testsite
 538,sas
 538,contest
 538,kataloge
-538,flight
 538,wp1
 537,www.event
 537,opel
@@ -2308,11 +2308,11 @@ count,subdomain
 523,test01
 523,sickrage
 523,www.wap
+523,mail.test
 523,vrachi
 522,ww3
 522,ghost
 522,www.msoid
-522,mail.test
 522,dyky
 521,maria
 521,sab
@@ -2909,6 +2909,7 @@ count,subdomain
 421,friends
 421,dps
 421,horizon
+421,christian
 421,voorraad
 420,mta
 420,ref
@@ -2920,7 +2921,6 @@ count,subdomain
 419,ball
 419,a4
 419,guest
-419,christian
 419,ssp
 419,boston
 419,stanchion-e9ab536-1512069437
@@ -3098,6 +3098,7 @@ count,subdomain
 395,kk
 395,lifestyle
 395,www.sub
+395,expo
 395,22
 395,vladivostok
 395,bus
@@ -3114,7 +3115,6 @@ count,subdomain
 394,devweb
 393,fin
 393,employee
-393,expo
 393,sol
 393,bonus
 393,www.tr
@@ -3123,6 +3123,7 @@ count,subdomain
 393,vrops
 392,cdn5
 392,projekte
+392,coach
 392,supplier
 392,www.intern
 392,ping
@@ -3174,7 +3175,6 @@ count,subdomain
 387,antares-test
 386,www.prod
 386,line
-386,coach
 386,innovation
 386,ci3
 386,hot
@@ -3501,6 +3501,7 @@ count,subdomain
 349,craft
 349,testes
 349,atelier
+349,mitsubishi
 349,cis
 349,26
 349,unsubscribe
@@ -3512,7 +3513,6 @@ count,subdomain
 349,nyc
 348,dv
 348,registry.gitlab
-348,mitsubishi
 348,gabrielefabiani
 348,cad
 348,sps
@@ -3907,6 +3907,7 @@ count,subdomain
 311,cws
 311,eu-central-1
 311,www.in
+311,ub
 311,smartlife
 311,cdn-6
 311,sni33287
@@ -3946,7 +3947,6 @@ count,subdomain
 308,www.webdesign
 308,cyber
 308,proofs
-308,ub
 308,www.srv
 308,www.maw
 308,cust1
@@ -4787,6 +4787,7 @@ count,subdomain
 256,fsu00
 256,mlm
 256,proofing
+256,collection
 256,controle
 256,rebecca
 256,wps
@@ -4832,6 +4833,7 @@ count,subdomain
 254,sni109046
 254,stu
 254,www.portraits
+254,sugarcrm
 254,jo
 254,*.blog27tv
 254,*.lamentechiara
@@ -4843,7 +4845,6 @@ count,subdomain
 254,katie
 254,tower
 254,www.iphone
-254,collection
 254,smr
 254,loja2
 254,ahctv
@@ -4875,7 +4876,6 @@ count,subdomain
 252,e1
 252,emm
 252,plugin
-252,sugarcrm
 252,lhcp9988
 252,advokat
 252,p3
@@ -4895,6 +4895,7 @@ count,subdomain
 252,mlc
 252,www.rds
 252,e-wahn
+252,looplink
 251,wvw
 251,russia
 251,snap
@@ -5211,7 +5212,6 @@ count,subdomain
 237,cph
 237,k8
 237,sni105371
-237,looplink
 236,distribution
 236,futuremailing
 236,mz
@@ -6182,6 +6182,7 @@ count,subdomain
 200,pharma
 200,cdr
 200,bcs
+200,vcard
 200,apl
 200,nx
 200,www.hotels
@@ -6231,7 +6232,6 @@ count,subdomain
 198,culture
 198,tu
 198,rich
-198,vcard
 198,onepage
 198,rpg
 198,demosite
@@ -6708,6 +6708,7 @@ count,subdomain
 185,opinsights
 185,hookups
 184,min
+184,contacto
 184,yammer
 184,www.deals
 184,ews
@@ -6752,7 +6753,6 @@ count,subdomain
 183,cce
 183,thai
 183,brittany
-183,contacto
 183,sanne
 183,obrazky
 183,infinity
@@ -7315,6 +7315,7 @@ count,subdomain
 169,un
 169,distributor
 169,www.articles
+169,www.linkedin
 169,lena
 169,administracion
 169,bittrex
@@ -7352,7 +7353,6 @@ count,subdomain
 168,dana
 168,lima
 168,jerry
-168,www.linkedin
 168,lw
 168,claire
 168,www.wifi
@@ -7667,6 +7667,7 @@ count,subdomain
 161,mcm
 161,dev-admin
 161,manuals
+161,www.cb
 161,cia
 161,btdpro
 161,pse
@@ -7720,7 +7721,6 @@ count,subdomain
 160,www.sts
 160,thrive
 160,www.biz
-160,www.cb
 160,suzuki
 160,m.dev
 160,csg
@@ -8104,6 +8104,7 @@ count,subdomain
 153,testpage
 153,owl
 153,known
+153,nepal
 153,color
 153,netherlands
 153,cpe
@@ -8222,7 +8223,6 @@ count,subdomain
 151,flood
 151,estudiantes
 151,zoneminder
-151,nepal
 151,rc1
 151,fabien
 151,my-own-creations
@@ -10694,6 +10694,7 @@ count,subdomain
 118,kam
 118,sense
 118,sdm
+118,www.hp
 118,verhuisdozen
 118,ntp
 118,helena
@@ -10859,7 +10860,6 @@ count,subdomain
 117,www.lifestyle
 117,www.ig
 117,sni151030
-117,www.hp
 117,bigo
 117,cee
 117,scanner
@@ -10868,6 +10868,7 @@ count,subdomain
 117,lcc
 117,viper
 117,icc
+117,www.expo
 117,webdisk.app
 117,karir
 117,foreman
@@ -10966,7 +10967,6 @@ count,subdomain
 116,anticonline
 116,srv03
 116,*.ca
-116,www.expo
 116,o1
 116,sni105443
 116,www.dns
@@ -13045,6 +13045,7 @@ count,subdomain
 99,equity
 99,registry.dev
 99,qf
+99,www.christian
 99,suisse
 99,sasha
 99,sni226778
@@ -13175,7 +13176,6 @@ count,subdomain
 98,funding
 98,shopcars
 98,220
-98,www.christian
 98,vmware
 98,gobiernoabierto
 98,www.telegram
@@ -14155,6 +14155,7 @@ count,subdomain
 92,www.atendimento
 92,cfo
 92,pers
+92,*.web
 92,www.sap
 92,teaser
 92,sni81824
@@ -14351,7 +14352,6 @@ count,subdomain
 91,seminars
 91,sni171214
 91,sni177884
-91,*.web
 91,smoke
 91,illustration
 91,webmail.m
@@ -14658,6 +14658,7 @@ count,subdomain
 89,186
 89,kidsplace
 89,clasa
+89,www.coach
 89,v3dev
 89,cpo
 89,test25
@@ -14816,7 +14817,6 @@ count,subdomain
 88,www.budget
 88,appengine
 88,haarbalenco
-88,www.coach
 88,fj
 88,innovate
 88,www.devsite
@@ -15940,6 +15940,7 @@ count,subdomain
 83,www.yt
 83,lcloud
 83,sala
+83,zurmo
 83,fjh
 83,push2
 83,greenville
@@ -16329,7 +16330,6 @@ count,subdomain
 81,lin44
 81,webdisk.admin
 81,www.fan
-81,zurmo
 81,www.intro
 81,triad
 81,itk
@@ -20190,6 +20190,7 @@ count,subdomain
 67,www.known
 67,shirley
 67,avr
+67,www.sugarcrm
 67,ctm
 67,futbol
 67,www.dnd
@@ -20516,7 +20517,6 @@ count,subdomain
 66,alessandraelle
 66,vdxirqpcq
 66,tesinamartinigiulia
-66,www.sugarcrm
 66,highlands
 66,myrx
 66,braffssponn
@@ -25313,6 +25313,7 @@ count,subdomain
 56,grani-trans
 56,ricuprodcom
 56,slimline
+56,www.collection
 56,mediproviders
 56,firefox
 56,drawing
@@ -25918,7 +25919,6 @@ count,subdomain
 55,copa
 55,afs
 55,119
-55,www.collection
 55,erebor
 55,*.questionz
 55,*.daniele2017
@@ -27593,6 +27593,7 @@ count,subdomain
 53,melweb
 53,cp30
 53,t4.answers
+53,warmup
 53,renzo
 53,adhybridhealth
 53,lfo
@@ -27985,6 +27986,7 @@ count,subdomain
 52,blossom
 52,brokersmallbrand
 52,www.jaguar
+52,www.ub
 52,programmareandroide
 52,simonix97
 52,tennisticasc
@@ -28695,7 +28697,6 @@ count,subdomain
 51,msrv
 51,sni11808
 51,*.salve
-51,www.ub
 51,zippy
 51,sni10014
 51,my.staging
@@ -28947,7 +28948,6 @@ count,subdomain
 51,sni31073
 51,secureportal
 51,origin-assets
-51,warmup
 51,sni198918
 51,*.sannasamuel4ite2015
 51,nmikhaylenko
@@ -29410,6 +29410,7 @@ count,subdomain
 50,www.sophia
 50,ugg-australia
 50,mail.apps
+50,securepay
 50,sni250449
 50,logicasia
 50,farfallerealistiche
@@ -30233,7 +30234,6 @@ count,subdomain
 49,mainsite
 49,dolly
 49,aydin
-49,securepay
 49,yamato
 49,webgis
 49,zest
@@ -31323,6 +31323,7 @@ count,subdomain
 48,sni110451
 48,flystudiosphotography
 48,ph2
+48,blog.dev
 48,sunfished
 48,rdf
 48,powerballtogo
@@ -31731,6 +31732,7 @@ count,subdomain
 47,cedar
 47,www.drupal8
 47,*.gjmuokowv
+47,www.nepal
 47,brandsdistribution
 47,dev2016
 47,fhir
@@ -32139,7 +32141,6 @@ count,subdomain
 47,germanycentral
 47,sni180973
 47,salesportal
-47,blog.dev
 47,www.british-columbia
 47,eternalnothingness
 47,sni228240
@@ -32158,6 +32159,7 @@ count,subdomain
 47,jubilee
 47,cache5
 47,*.scontoshop
+47,pirelli
 47,sni153727
 47,turizm
 47,dosug
@@ -32408,7 +32410,6 @@ count,subdomain
 46,cine1996
 46,chaddive
 46,*.novatestbot
-46,www.nepal
 46,scorpion
 46,sni194460
 46,242012v-test
@@ -36562,6 +36563,7 @@ count,subdomain
 43,fbe
 43,*.kwezzweb
 43,igc
+43,appeal
 43,media7
 43,ajp
 43,aki
@@ -37831,6 +37833,7 @@ count,subdomain
 42,picara-farm
 42,egoedition
 42,bfn
+42,support.apple
 42,www.bos
 42,jobnow
 42,elparadise
@@ -38939,7 +38942,6 @@ count,subdomain
 41,rocio
 41,www.knowledgebase
 41,www.capital
-41,appeal
 41,www.beautydiscounter-system1
 41,ibrahim
 41,sni205013
@@ -39059,7 +39061,6 @@ count,subdomain
 41,brendan
 41,www.hans
 41,aov
-41,support.apple
 41,kartei
 41,*.solobellamusicaitaliana
 41,sni144988
@@ -40216,6 +40217,7 @@ count,subdomain
 40,*.provainphp
 40,maru
 40,klantportal
+40,www.cp2
 40,sni250454
 40,iviaggidiorsacchiotta
 40,pulettivultaggio
@@ -41661,7 +41663,6 @@ count,subdomain
 39,planos
 39,itest
 39,baike
-39,www.cp2
 39,styleproject
 39,zumba
 39,fbposter
@@ -41810,7 +41811,6 @@ count,subdomain
 39,tvt
 39,accademia
 39,sni39707
-39,pirelli
 39,campos
 39,l5
 39,buddha
@@ -43596,6 +43596,7 @@ count,subdomain
 38,sni27643
 38,mondoecucinaconizumi
 38,testwp1
+38,www.vcard
 38,sni183657
 38,miramar
 38,xn--80aasiq5a
@@ -45065,7 +45066,6 @@ count,subdomain
 37,infected
 37,gerry
 37,sni50564
-37,www.vcard
 37,brf
 37,smpp
 37,testonline
@@ -45764,6 +45764,7 @@ count,subdomain
 36,sellyourcar
 36,sni152798
 36,argumentativeessay
+36,annex
 36,cim2010
 36,wp-corpo.test
 36,wp-corpo
@@ -46350,6 +46351,7 @@ count,subdomain
 36,sni237319
 36,mahkotaqq
 36,adrenalin
+36,ww11
 36,sni246524
 36,googledocs
 36,ifactory3
@@ -48239,7 +48241,6 @@ count,subdomain
 35,sni67128
 35,cas2
 35,www.arduino
-35,ww11
 35,sni202635
 35,*.informaticalezioni
 35,sni246975
@@ -49384,7 +49385,6 @@ count,subdomain
 34,alessandroalicino
 34,hej
 34,zwww
-34,annex
 34,cleanlinescollective
 34,writingwildgrandcanyon
 34,intothewildjourneys
@@ -77676,6 +77676,7 @@ count,subdomain
 26,9dejulio
 26,arussoniello
 26,conse
+26,cityofco
 26,seikatsu
 26,m030c274
 25,www.willow
@@ -78354,6 +78355,7 @@ count,subdomain
 25,sni36707
 25,chandigarh
 25,sni242537
+25,tren
 25,www.habitat
 25,sni227466
 25,*.manuart92
@@ -85304,6 +85306,7 @@ count,subdomain
 24,sni51029
 24,nampan
 24,pubblicotv
+24,marianna
 24,iqmumy
 24,buonaurio
 24,sni186205
@@ -88342,7 +88345,6 @@ count,subdomain
 24,user65be
 24,bb040
 24,arroyito
-24,cityofco
 24,myshopeverywere
 23,alfalfa
 23,v001
@@ -88971,7 +88973,6 @@ count,subdomain
 23,resque
 23,assam
 23,sikkim
-23,tren
 23,sni230580
 23,sni227482
 23,*.ulshop
@@ -99999,4 +100000,3 @@ count,subdomain
 22,presta6
 22,sni188683
 22,safetykids-pl
-22,bmwrawski
