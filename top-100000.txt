@@ -1,41 +1,41 @@
-# Generated 2018-09-11 01:02:50.910026
+# Generated 2018-09-11 02:02:28.819895
 count,subdomain
-63701515,*
-26843463,www
-4921195,mail
-3076347,webmail
-3021375,webdisk
-2883392,cpanel
-1238041,autodiscover
-214304,dev
+63701519,*
+26843651,www
+4921277,mail
+3076379,webmail
+3021405,webdisk
+2883422,cpanel
+1238049,autodiscover
+214305,dev
 157511,test
 152506,m
 139834,blog
-108103,api
+108104,api
 106094,shop
 91888,staging
 91032,whm
-86013,admin
-83721,com
+86014,admin
+83723,com
 81673,sni
 80125,mdp
 71121,demo
 68659,ftl
 67673,cloud
-58609,smtp
-57901,app
+58610,smtp
+57903,app
 50620,new
 48993,mobile
 48890,support
 48819,tls
-46456,ftp
+46457,ftp
 43356,beta
 41000,multidomain-prober
 40627,cdn
 36433,secure
 35582,forum
 34636,www.test
-34577,imap
+34578,imap
 34042,mgames
 33935,www.blog
 33834,gameflex
@@ -62,11 +62,11 @@ count,subdomain
 24228,sandbox
 23668,mbox12
 22156,fr
-21036,pop3
-20498,crm
+21037,pop3
+20500,crm
 20299,my
 20288,vpn
-20252,www.mail
+20255,www.mail
 20245,www.shop
 19826,p
 19576,members
@@ -80,7 +80,7 @@ count,subdomain
 17929,us
 17659,info
 16528,r
-16479,poczta
+16480,poczta
 16361,old
 16252,apps
 16106,office
@@ -130,7 +130,7 @@ count,subdomain
 10362,tools
 10144,cp
 10139,i
-10125,co
+10127,co
 10110,help
 10060,site
 10057,www.wp
@@ -197,7 +197,7 @@ count,subdomain
 6796,projects
 6788,online
 6768,au
-6754,www.app
+6755,www.app
 6736,tw
 6733,corp
 6703,developer
@@ -205,7 +205,7 @@ count,subdomain
 6668,www.remote
 6664,yak
 6545,assets
-6539,registry
+6540,registry
 6536,dl
 6530,CY2
 6526,plex
@@ -273,22 +273,22 @@ count,subdomain
 5044,amysql
 5029,pay
 5001,photo
-4977,mysql10
-4969,mysql02
+4978,mysql10
+4970,mysql02
 4968,alpha
-4965,mysql01
-4964,mysql03
-4964,mysql09
-4962,mysql04
-4962,mysql07
-4962,psql02
-4962,psql01
-4961,psql03
-4961,mysql06
-4961,mysql05
-4961,psql05
-4961,mysql08
-4961,psql04
+4966,mysql01
+4965,mysql03
+4965,mysql09
+4963,mysql04
+4963,mysql07
+4963,psql02
+4963,psql01
+4962,psql03
+4962,mysql06
+4962,mysql05
+4962,psql05
+4962,mysql08
+4962,psql04
 4944,upload
 4926,sl
 4893,backup
@@ -302,8 +302,8 @@ count,subdomain
 4748,tienda
 4745,www.old
 4739,monitor
+4723,www.crm
 4723,st
-4722,www.crm
 4689,v1-prober
 4667,lists
 4603,ad
@@ -428,7 +428,7 @@ count,subdomain
 3223,fcell
 3212,elearning
 3211,www.static
-3160,book
+3161,book
 3159,acc
 3152,sync
 3148,server2
@@ -553,7 +553,7 @@ count,subdomain
 2468,sklep
 2468,pda
 2464,fs
-2462,mail.mail
+2463,mail.mail
 2462,f1
 2461,foto
 2456,sistema
@@ -580,7 +580,7 @@ count,subdomain
 2348,sk
 2347,v2p
 2338,pr
-2330,pre
+2333,pre
 2329,portainer
 2314,maps
 2314,reseller
@@ -728,11 +728,11 @@ count,subdomain
 1779,www.portfolio
 1774,tst
 1773,pad
+1767,da
 1765,one
 1764,casemoderne
 1764,blue
 1761,biz
-1761,da
 1754,*.w
 1750,www.chat
 1745,as
@@ -816,8 +816,8 @@ count,subdomain
 1563,demos
 1563,megaadm
 1562,th
+1560,www.mail.mail
 1559,www.cms
-1559,www.mail.mail
 1559,v2-gclb-prober
 1558,ww2
 1557,www.developer
@@ -825,8 +825,8 @@ count,subdomain
 1551,ma
 1546,rds
 1546,wifi
+1544,testsite
 1543,alumni
-1542,testsite
 1539,apjdemo
 1536,dc
 1535,corporate
@@ -1000,8 +1000,8 @@ count,subdomain
 1235,shopping
 1232,www.correo
 1230,csh
+1229,hello
 1229,*.dev
-1228,hello
 1228,posta
 1224,www.video
 1224,deploy
@@ -1611,6 +1611,7 @@ count,subdomain
 759,offer
 759,fusion
 759,www.survey
+758,media1
 758,rec
 757,repository
 756,trac
@@ -1618,7 +1619,6 @@ count,subdomain
 756,www.webshop
 756,www.demo2
 756,international
-756,media1
 755,myadmin
 755,phone
 755,edwin
@@ -1920,7 +1920,7 @@ count,subdomain
 625,www.edu
 625,ab
 625,embed
-623,creative
+624,creative
 623,spam
 623,the-event
 623,gamma
@@ -2244,6 +2244,7 @@ count,subdomain
 540,electronics-de
 540,electronics-uk
 539,www.event
+539,www.testsite
 539,university
 539,ka
 539,sas
@@ -2252,7 +2253,6 @@ count,subdomain
 539,hs1
 539,electronics-eu
 538,www.website
-538,www.testsite
 538,visit
 538,contest
 538,kataloge
@@ -2675,13 +2675,13 @@ count,subdomain
 459,pgadmin
 459,www.contact
 459,soa
+459,promotions
 459,domainservices
 458,toronto
 458,bit
 458,www.journal
 458,clienti
 458,robert
-458,promotions
 458,lefettuccinedimarina
 457,www.doc
 457,statistics
@@ -4030,6 +4030,7 @@ count,subdomain
 303,tf
 303,george
 303,php71
+303,ice
 303,fever
 303,target
 303,microsoftonline
@@ -4067,7 +4068,6 @@ count,subdomain
 301,www.appleid.apple.com
 301,mf
 301,jeremy
-301,ice
 301,energie
 301,copy
 301,lif
@@ -4303,6 +4303,7 @@ count,subdomain
 283,models
 283,bl
 283,csi
+283,www.co
 283,destek
 283,www.se
 283,talent
@@ -4317,7 +4318,6 @@ count,subdomain
 282,vancouver
 282,www.mag
 282,du
-282,www.co
 282,www.com
 282,onboarding
 282,spotweb
@@ -4390,6 +4390,7 @@ count,subdomain
 278,atom
 278,e-shop
 278,smarthome
+278,brsc
 278,cpanel.mail
 278,webdisk.mail
 278,fritz
@@ -4429,7 +4430,6 @@ count,subdomain
 276,www.security
 276,chase
 276,philhist
-276,brsc
 276,our-wedding-1
 276,ashley
 276,prelive
@@ -5907,6 +5907,7 @@ count,subdomain
 210,aqua
 210,vse
 210,memes
+210,www.da
 210,www.mm
 210,www.tmp
 210,bsc
@@ -5933,7 +5934,6 @@ count,subdomain
 209,client2
 209,hogan
 209,www.ps
-209,www.da
 209,www.adfs
 209,mhg
 209,www.qr
@@ -7341,6 +7341,7 @@ count,subdomain
 169,guestbook
 169,www.wifi
 169,cdn8
+169,hf
 169,sobeautyshop
 169,sni174033
 169,paradise
@@ -7386,7 +7387,6 @@ count,subdomain
 168,miele
 168,creation
 168,depot
-168,hf
 168,picture
 168,gap
 168,synergy
@@ -7859,6 +7859,7 @@ count,subdomain
 158,jv
 158,standard
 158,barcode
+158,www.media1
 158,*.corp
 158,vega
 158,off
@@ -7927,7 +7928,6 @@ count,subdomain
 157,syd
 157,april
 157,rk
-157,www.media1
 157,hospitality
 157,gary
 157,asgard
@@ -9057,6 +9057,7 @@ count,subdomain
 138,bcp
 138,teachers
 138,met
+138,chp
 138,our-wedding-3
 138,pcb
 138,mdb
@@ -9198,7 +9199,6 @@ count,subdomain
 136,stocks
 136,ban
 136,ly
-136,chp
 136,www.task
 136,tps
 136,dolphin
@@ -16825,6 +16825,7 @@ count,subdomain
 79,csail
 79,backyard
 79,www.calculator
+79,swap
 79,webdisk.beta
 79,mailchimp
 79,webdisk.api
@@ -17307,7 +17308,6 @@ count,subdomain
 77,classics
 77,aktionen
 77,www.verwaltung
-77,swap
 77,bees
 77,marin
 77,demoweb
@@ -23536,6 +23536,7 @@ count,subdomain
 60,pacchettivacanze
 60,plesk06
 60,www.signature
+60,gospel
 60,ilmercatinodeipensieri
 60,collective
 60,livraria
@@ -24486,7 +24487,6 @@ count,subdomain
 58,emmanuelsalvatoredist
 58,sni176775
 58,ficscampania
-58,gospel
 58,quasiadattibisenti
 58,speedupteam
 58,amigo
@@ -36101,6 +36101,7 @@ count,subdomain
 44,candela-zpchr
 44,reax
 44,tobola
+44,villabaltica
 44,dns-laska
 44,jpac
 44,smdolnoslaska
@@ -39952,6 +39953,7 @@ count,subdomain
 40,principiordinatore
 40,www.president
 40,tgs
+40,mgn
 40,moldova
 40,sni217584
 40,sni236348
@@ -40301,6 +40303,7 @@ count,subdomain
 40,apploc
 40,*.dmsecurity
 40,mmail
+40,www.ice
 40,jive
 40,host7
 40,lexi
@@ -41526,7 +41529,6 @@ count,subdomain
 39,norwegian
 39,warsztaty
 39,telefon
-39,mgn
 39,webdisk.sites
 39,cpanel.sites
 39,firenze
@@ -41750,7 +41752,6 @@ count,subdomain
 39,equiweb01.uksouth.cloudapp
 39,equiweb01
 39,riders
-39,www.ice
 39,tahiti
 39,www.blockchain
 39,planos
@@ -94576,6 +94577,7 @@ count,subdomain
 22,ieg
 22,richland
 22,www.ipc
+22,mail.da
 22,www.haiti
 22,mail.chile
 22,webmail.sms
@@ -96605,6 +96607,7 @@ count,subdomain
 22,agranderolha
 22,techbest
 22,clpcc
+22,bih
 22,bhess
 22,sni248024
 22,eadmin
@@ -99997,6 +100000,3 @@ count,subdomain
 22,sni153593
 22,rgbydgoszcz
 22,webmaster2000
-22,sitocmscuola
-22,sisc
-22,lacasadipatty
