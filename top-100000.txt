@@ -1,23 +1,23 @@
-# Generated 2018-09-15 00:03:13.073910
+# Generated 2018-09-15 01:03:18.760384
 count,subdomain
-63733329,*
-26861944,www
-4926852,mail
-3079942,webmail
-3024820,webdisk
-2886829,cpanel
-1239334,autodiscover
+63733396,*
+26862053,www
+4926870,mail
+3079946,webmail
+3024825,webdisk
+2886833,cpanel
+1239338,autodiscover
 214481,dev
 157657,test
-152606,m
+152607,m
 139957,blog
 108156,api
-106171,shop
-91966,staging
-91145,whm
+106173,shop
+91967,staging
+91147,whm
 86088,admin
 83839,com
-81895,sni
+81902,sni
 80125,mdp
 71173,demo
 68664,ftl
@@ -27,12 +27,12 @@ count,subdomain
 50686,new
 49000,mobile
 48940,support
-48853,tls
+48855,tls
 46492,ftp
 43397,beta
 41000,multidomain-prober
 40657,cdn
-36455,secure
+36457,secure
 35598,forum
 34679,www.test
 34594,imap
@@ -64,12 +64,12 @@ count,subdomain
 22166,fr
 21043,pop3
 20519,crm
-20310,www.mail
+20312,www.mail
 20308,my
 20307,vpn
-20270,www.shop
+20271,www.shop
 19835,p
-19588,members
+19589,members
 19387,love
 19069,*.1
 18857,media
@@ -96,7 +96,7 @@ count,subdomain
 14097,files
 14093,gitlab
 14041,ru
-14029,sip
+14034,sip
 13864,anycast
 13736,*.r
 13730,*.prod.ftl
@@ -124,13 +124,13 @@ count,subdomain
 10766,agent
 10747,int
 10705,data
-10560,tools
+10564,tools
 10520,dashboard
 10513,www.new
 10443,uat
 10162,cp
 10142,i
-10133,co
+10135,co
 10113,help
 10066,www.wp
 10065,site
@@ -254,8 +254,8 @@ count,subdomain
 5324,pro
 5316,virtd
 5294,connect
+5281,lyncdiscover
 5279,forums
-5276,lyncdiscover
 5272,helpdesk
 5270,2
 5246,mboss
@@ -307,7 +307,7 @@ count,subdomain
 4694,v1-prober
 4677,lists
 4604,ad
-4601,staging2
+4602,staging2
 4585,i2
 4580,oca
 4579,v6
@@ -322,7 +322,7 @@ count,subdomain
 4481,tickets
 4464,learn
 4441,m.en
-4430,meet
+4433,meet
 4410,webdav
 4378,test1
 4356,lp
@@ -397,7 +397,7 @@ count,subdomain
 3467,work
 3466,usdemo
 3454,member
-3442,temp
+3443,temp
 3436,caldav
 3427,doc
 3426,expertwitness
@@ -493,7 +493,7 @@ count,subdomain
 2803,newsite
 2789,downloads
 2771,next
-2763,forms
+2765,forms
 2762,clientes
 2762,i4
 2760,dns
@@ -615,9 +615,9 @@ count,subdomain
 2179,android
 2176,lib
 2173,review
+2169,dialin
 2168,si
 2166,ms
-2166,dialin
 2158,f3
 2157,f4
 2148,soporte
@@ -1052,7 +1052,7 @@ count,subdomain
 1166,desktop3
 1165,gse
 1164,q
-1161,webconf
+1162,webconf
 1159,smart
 1159,rt
 1159,kr
@@ -1591,8 +1591,8 @@ count,subdomain
 771,xb
 769,star
 769,delivery
+768,uc
 768,agent-qa
-767,uc
 767,iris
 766,galeria
 766,videoshope
@@ -1632,10 +1632,10 @@ count,subdomain
 750,tests
 750,investor
 750,2012
+750,al
 749,sni250189
 748,pe
 748,www.helpdesk
-748,al
 747,sos
 747,omsk
 746,cb
@@ -1696,10 +1696,10 @@ count,subdomain
 716,east
 716,dt
 715,hrm
+715,Lyncdiscover
 715,groups
 715,webkiosk
 714,matt
-714,Lyncdiscover
 714,github
 713,product
 713,p1
@@ -1964,6 +1964,7 @@ count,subdomain
 611,insight
 611,jupiter
 611,livechat
+611,securemail
 611,class
 611,golf
 611,www.eng
@@ -1977,7 +1978,6 @@ count,subdomain
 610,livepreview
 609,relay
 609,yoga
-609,securemail
 609,kube
 608,planning
 608,gold
@@ -2649,12 +2649,12 @@ count,subdomain
 464,botprova001
 464,bigcdn
 463,titan
+463,www.forms
 463,inv
 463,bans
 463,56
 462,issues
 462,metabase
-462,www.forms
 462,webhosting
 461,bogus
 461,custom
@@ -7145,6 +7145,7 @@ count,subdomain
 173,dedi
 173,eportal
 173,sender
+173,appdev
 173,foros
 173,pack
 173,www.ead
@@ -7189,7 +7190,6 @@ count,subdomain
 172,as1000support
 172,rdv
 172,hunter
-172,appdev
 172,netflix
 172,sickbeard
 172,mooc
@@ -9736,6 +9736,7 @@ count,subdomain
 130,vss
 130,tss
 130,cdigital
+130,www.securemail
 130,new-jersey
 130,newblogs
 130,sre
@@ -9803,7 +9804,6 @@ count,subdomain
 129,divorce
 129,node3
 129,211
-129,www.securemail
 129,bart
 129,sni249422
 129,sni102512
@@ -13771,6 +13771,7 @@ count,subdomain
 95,databank
 95,scouting
 95,lars
+95,rci
 95,aadcdn
 95,www.packages
 95,dop
@@ -13928,7 +13929,6 @@ count,subdomain
 94,isr
 94,finalproject
 94,marije-en-marijn
-94,rci
 94,sni239940
 94,*.pwatest
 94,valentinavagamondo
@@ -18960,6 +18960,7 @@ count,subdomain
 71,cdn-images
 71,nessus
 71,www.integration
+71,www.al
 71,www.vckuroszulte
 71,chl
 71,cpanel.secure
@@ -19212,7 +19213,6 @@ count,subdomain
 70,demo17
 70,usadye
 70,homecoming
-70,www.al
 70,pauline
 70,volleybalschoen
 70,zgwjfbyaczugmqs
@@ -35304,6 +35304,7 @@ count,subdomain
 44,*.enginemoviechannel
 44,sni174412
 44,*.worktoearn
+44,skypeweb
 44,gaylife
 44,sni241728
 44,webmail.chat
@@ -36851,7 +36852,6 @@ count,subdomain
 43,0176
 43,sni33579
 43,*.subarubanana
-43,skypeweb
 43,cpanel.chat
 43,haraj
 43,sni173488
