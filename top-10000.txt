@@ -1,23 +1,23 @@
-# Generated 2018-09-19 09:02:32.752862
+# Generated 2018-09-19 10:01:56.763711
 count,subdomain
-63751240,*
-26884463,www
-4931594,mail
-3083113,webmail
-3027760,webdisk
-2889772,cpanel
-1240698,autodiscover
-214659,dev
+63751353,*
+26884608,www
+4931625,mail
+3083131,webmail
+3027780,webdisk
+2889792,cpanel
+1240705,autodiscover
+214661,dev
 157875,test
 152893,m
 140096,blog
 108233,api
 106232,shop
 92017,staging
-91221,whm
+91222,whm
 86127,admin
-83930,com
-82506,sni
+83939,com
+82578,sni
 80125,mdp
 71289,demo
 68669,ftl
@@ -46,7 +46,7 @@ count,subdomain
 33169,qa
 32811,store
 31444,wp
-28774,1
+28776,1
 28299,eu
 28134,git
 26638,prod
@@ -56,7 +56,7 @@ count,subdomain
 26184,server
 25718,stage
 25216,pop
-25208,portal
+25209,portal
 25141,remote
 24696,web
 24249,sandbox
@@ -73,10 +73,10 @@ count,subdomain
 19387,love
 19070,*.1
 18884,media
+18410,core
 18407,home
-18404,core
 18174,de
-18029,autoconfig
+18030,autoconfig
 17950,us
 17704,info
 16530,r
@@ -131,7 +131,7 @@ count,subdomain
 10173,cp
 10144,i
 10141,co
-10125,help
+10126,help
 10076,site
 10070,www.wp
 9990,clients
@@ -140,7 +140,7 @@ count,subdomain
 9781,video
 9767,go
 9720,at
-9687,live
+9688,live
 9686,net
 9683,ssl
 9637,it
@@ -185,7 +185,7 @@ count,subdomain
 7354,fna
 7351,www.server
 7290,gallery
-7276,staging1
+7280,staging1
 7228,content
 7153,web01
 7142,nl
@@ -216,11 +216,11 @@ count,subdomain
 6403,events
 6346,w
 6249,nas
+6184,geneva
 6181,jira
 6180,unrevoked
-6178,geneva
 6081,design
-6050,metricsclient
+6056,metricsclient
 6038,loja
 6038,www.api
 6007,amp
@@ -265,7 +265,7 @@ count,subdomain
 5194,apple
 5173,ws
 5129,ww
-5119,music
+5120,music
 5109,box
 5096,server1
 5086,exchange
@@ -370,7 +370,7 @@ count,subdomain
 3802,2017
 3771,www.portal
 3750,master
-3744,4
+3745,4
 3743,vod
 3730,wx
 3719,develop
@@ -431,7 +431,7 @@ count,subdomain
 3164,book
 3162,acc
 3156,sync
-3154,www.staging1
+3156,www.staging1
 3150,server2
 3143,update
 3135,tracking
@@ -458,7 +458,7 @@ count,subdomain
 3038,5267076-init.sl
 3038,5267076-init
 3030,play
-3025,metricsclient.geneva.core
+3028,metricsclient.geneva.core
 3012,eng
 3002,www.my
 2988,cv
@@ -476,7 +476,7 @@ count,subdomain
 2902,join
 2897,operations
 2893,k8s
-2890,neu
+2891,neu
 2881,i3
 2856,demo1
 2854,gestion
@@ -800,7 +800,7 @@ count,subdomain
 1610,stg-v2
 1608,www.home
 1607,amazon
-1605,donate
+1606,donate
 1604,learning
 1602,weather
 1602,av
@@ -977,8 +977,8 @@ count,subdomain
 1273,nagios
 1272,redirector.int
 1269,2014
+1267,5
 1267,restaurant
-1266,5
 1265,www.cpanel
 1264,mon
 1263,signupapp2
@@ -998,9 +998,9 @@ count,subdomain
 1238,officialeventilive
 1237,static2
 1236,shopping
+1233,7
 1233,www.correo
-1232,7
-1231,*.dev
+1232,*.dev
 1230,posta
 1230,csh
 1229,hello
@@ -1104,9 +1104,9 @@ count,subdomain
 1106,www.sms
 1105,extern
 1102,agency
+1102,0
 1101,kauppa
 1101,act
-1101,0
 1100,win
 1099,unms
 1099,qa2
@@ -1202,8 +1202,8 @@ count,subdomain
 1019,ffsync
 1018,ff
 1018,design52
+1017,9
 1017,dashweb
-1016,9
 1016,h5
 1016,telegram
 1016,design51
@@ -1370,10 +1370,10 @@ count,subdomain
 888,wallet
 885,affiliates
 884,em
+883,icinga
 883,retail
 882,*.casemoderne
 882,sni196837
-882,icinga
 881,vn
 881,cluster2
 880,mailbox
@@ -1524,6 +1524,7 @@ count,subdomain
 808,ra
 808,testdocker
 807,quote
+807,daniel
 807,app1
 807,fc
 806,peter
@@ -1532,7 +1533,6 @@ count,subdomain
 806,webcam
 806,fablabudine
 805,www.w
-805,daniel
 804,www.exchange
 803,isp
 803,www.sistema
@@ -4135,6 +4135,7 @@ count,subdomain
 296,general
 296,www.ecommerce
 296,port
+296,inbound
 296,testwp
 296,04
 296,amsterdam
@@ -4166,7 +4167,6 @@ count,subdomain
 294,phplist
 294,timeline
 294,tj
-294,inbound
 294,www.cliente
 294,earth
 294,daftar
@@ -4292,6 +4292,7 @@ count,subdomain
 284,srv3
 284,iw
 284,www.mag
+284,bl
 284,du
 284,wireless
 284,www.st
@@ -4311,7 +4312,6 @@ count,subdomain
 283,www.maps
 283,30
 283,mas
-283,bl
 283,csi
 283,www.co
 283,destek
@@ -6714,6 +6714,7 @@ count,subdomain
 185,oma
 185,xd
 185,imoveis
+185,www.daniel
 185,arte
 185,william
 185,artwork
@@ -6745,7 +6746,6 @@ count,subdomain
 184,bori
 184,www.mp3
 184,shipping
-184,www.daniel
 184,asa
 184,homeserver
 184,www.maintenance
