@@ -1,12 +1,12 @@
-# Generated 2018-09-20 20:01:49.458794
+# Generated 2018-09-20 21:02:05.558301
 count,subdomain
-63757894,*
-26890534,www
-4932788,mail
-3083899,webmail
-3028451,webdisk
-2890470,cpanel
-1241002,autodiscover
+63757930,*
+26890634,www
+4932797,mail
+3083907,webmail
+3028459,webdisk
+2890478,cpanel
+1241006,autodiscover
 214739,dev
 157934,test
 152908,m
@@ -24,16 +24,16 @@ count,subdomain
 67768,cloud
 58690,smtp
 58013,app
-50720,new
+50722,new
 49017,mobile
 49003,support
-48918,tls
+48919,tls
 46590,ftp
 43466,beta
 41000,multidomain-prober
 40687,cdn
 36488,secure
-35623,forum
+35624,forum
 34749,www.test
 34639,imap
 34042,mgames
@@ -46,7 +46,7 @@ count,subdomain
 33170,qa
 32826,store
 31455,wp
-28801,1
+28803,1
 28301,eu
 28146,git
 26643,prod
@@ -65,7 +65,7 @@ count,subdomain
 21078,pop3
 20552,crm
 20356,www.mail
-20353,vpn
+20355,vpn
 20335,my
 20288,www.shop
 19870,p
@@ -96,7 +96,7 @@ count,subdomain
 14114,files
 14102,gitlab
 14048,ru
-14036,sip
+14037,sip
 13865,anycast
 13745,chat
 13737,*.r
@@ -125,8 +125,8 @@ count,subdomain
 10747,int
 10710,data
 10635,tools
+10524,www.new
 10524,dashboard
-10523,www.new
 10450,uat
 10173,cp
 10153,co
@@ -212,7 +212,7 @@ count,subdomain
 6524,ci
 6471,c
 6453,dev2
-6420,database
+6423,database
 6405,events
 6347,w
 6249,nas
@@ -253,8 +253,8 @@ count,subdomain
 5350,manage
 5326,pro
 5316,virtd
+5301,2
 5298,connect
-5298,2
 5285,forums
 5283,lyncdiscover
 5277,helpdesk
@@ -265,7 +265,7 @@ count,subdomain
 5194,apple
 5177,ws
 5132,ww
-5121,music
+5122,music
 5109,box
 5099,server1
 5086,exchange
@@ -360,8 +360,8 @@ count,subdomain
 3949,blogs
 3934,social
 3933,code
-3925,mbox
-3907,3
+3926,mbox
+3909,3
 3877,hr
 3845,svn
 3830,books
@@ -369,7 +369,7 @@ count,subdomain
 3816,promo
 3802,2017
 3771,www.portal
-3768,4
+3771,4
 3750,master
 3744,vod
 3731,wx
@@ -408,7 +408,7 @@ count,subdomain
 3371,wats
 3367,manager
 3356,webshop
-3349,worker
+3352,worker
 3328,dispatcher
 3322,courses
 3309,map
@@ -468,8 +468,8 @@ count,subdomain
 2947,control
 2941,hu
 2940,order
+2930,2018
 2929,ip
-2929,2018
 2924,materiais
 2919,resources
 2908,direct
@@ -958,9 +958,9 @@ count,subdomain
 1302,transfer
 1298,img2
 1294,uiauto-prod02
+1293,5
 1292,surveys
 1291,users
-1288,5
 1287,fashion
 1285,www.magento
 1284,affiliate
@@ -1029,12 +1029,12 @@ count,subdomain
 1196,ja
 1192,api2
 1190,ny
+1189,6
 1188,www.ww
 1186,qa1
 1186,pbx
 1186,ap
 1186,agenda
-1186,6
 1185,products
 1181,webapp
 1181,tour
@@ -1068,9 +1068,9 @@ count,subdomain
 1148,gr
 1146,ellebigi
 1146,z
+1145,0
 1142,sni197444
 1142,r3
-1142,0
 1141,www.jobs
 1140,minecraft
 1140,archives
@@ -1165,16 +1165,16 @@ count,subdomain
 1053,m2
 1052,lb
 1052,crypto
+1051,9
 1051,pdf
 1051,dm
 1049,www.owncloud
 1049,sni196774
 1049,*.eventi4fly
-1048,9
 1047,law
 1046,gps
+1045,servicedesk
 1045,mi
-1044,servicedesk
 1043,eu-west-1
 1042,stock
 1040,whois
@@ -1281,9 +1281,9 @@ count,subdomain
 958,yobit
 954,cache
 952,java
+952,servers
 951,pictures
 951,www.sklep
-951,servers
 951,domains
 949,app2
 947,bs
@@ -1321,8 +1321,8 @@ count,subdomain
 917,westeurope1-a
 916,config
 916,eventos
+916,8
 915,tasks
-915,8
 914,www.travel
 913,bmxsp-6f8-ff02-w2
 912,www.music
@@ -1731,8 +1731,8 @@ count,subdomain
 706,media-test
 705,shopify
 705,qa3
+705,nsxManager
 704,sni187798
-704,nsxManager
 703,www.foto
 703,www.english
 703,theme
@@ -2131,12 +2131,12 @@ count,subdomain
 566,cloud2
 566,all
 565,www.market
+565,www.2018
 565,ombi
 565,www.reseller
 565,sandiego
 565,rostov
 564,dl1
-564,www.2018
 564,sni230355
 564,dealer
 564,steam
@@ -3783,6 +3783,7 @@ count,subdomain
 324,*.bustuycredut
 324,sni55677
 324,cheeposlist
+324,westus1-a
 323,weblog
 323,expert
 323,jura
@@ -3796,7 +3797,6 @@ count,subdomain
 322,pws
 322,sni80251
 322,*.statisticheprova
-322,westus1-a
 321,journals
 321,pv
 321,teacher
@@ -4008,6 +4008,7 @@ count,subdomain
 305,tf
 305,compliance
 305,nou
+305,s4hana
 304,test-api
 304,www.podcast
 304,uat1
@@ -4029,7 +4030,6 @@ count,subdomain
 304,seed
 304,derp
 304,lagrammaticadellanima
-304,s4hana
 303,foo
 303,fichiers
 303,www.galerie
@@ -8500,6 +8500,7 @@ count,subdomain
 147,actie
 147,www.is
 147,denis
+147,educacion
 147,archivos
 147,finances
 147,evolution
@@ -8631,7 +8632,6 @@ count,subdomain
 145,mae
 145,reseau
 145,sni70870
-145,educacion
 145,88
 145,parser
 145,cpt
