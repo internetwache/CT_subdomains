@@ -1,23 +1,23 @@
-# Generated 2018-09-22 20:01:43.373316
+# Generated 2018-09-22 21:02:35.311921
 count,subdomain
-63765824,*
-26902858,www
-4934971,mail
-3085320,webmail
-3029781,webdisk
-2891810,cpanel
-1241650,autodiscover
-214940,dev
+63765988,*
+26903024,www
+4934976,mail
+3085326,webmail
+3029785,webdisk
+2891814,cpanel
+1241653,autodiscover
+214942,dev
 157984,test
 152939,m
-140201,blog
+140203,blog
 108288,api
-106319,shop
+106322,shop
 92063,staging
 91277,whm
-86189,admin
+86191,admin
 84139,com
-83271,sni
+83285,sni
 80125,mdp
 71333,demo
 68669,ftl
@@ -42,7 +42,7 @@ count,subdomain
 33550,liveupdate
 33395,en
 33293,status
-33286,static
+33287,static
 33175,qa
 32845,store
 31469,wp
@@ -50,7 +50,7 @@ count,subdomain
 28301,eu
 28153,git
 26647,prod
-26578,www.dev
+26579,www.dev
 26415,wiki
 26288,news
 26198,server
@@ -67,7 +67,7 @@ count,subdomain
 20370,vpn
 20364,www.mail
 20339,my
-20300,www.shop
+20301,www.shop
 19896,p
 19626,members
 19387,love
@@ -151,7 +151,7 @@ count,subdomain
 9198,services
 9139,client
 8988,wap
-8975,www.admin
+8976,www.admin
 8971,a
 8945,cn
 8923,nextcloud
@@ -212,7 +212,7 @@ count,subdomain
 6525,ci
 6474,c
 6453,dev2
-6425,database
+6431,database
 6406,events
 6349,w
 6250,nas
@@ -308,7 +308,7 @@ count,subdomain
 4679,lists
 4612,staging2
 4609,ad
-4590,i2
+4591,i2
 4580,oca
 4579,v6
 4552,library
@@ -356,8 +356,8 @@ count,subdomain
 3983,dev1
 3977,travel
 3954,b2b
+3952,blogs
 3952,partner
-3950,blogs
 3935,social
 3933,code
 3932,mbox
@@ -408,7 +408,7 @@ count,subdomain
 3371,manager
 3371,wats
 3362,webshop
-3354,worker
+3356,worker
 3328,dispatcher
 3324,courses
 3311,map
@@ -665,9 +665,9 @@ count,subdomain
 2013,campus
 2012,payments
 2011,www.clients
+2007,market
 2007,mattermost
 2006,sa
-2005,market
 1998,art
 1995,www.fr
 1987,www.info
@@ -727,7 +727,7 @@ count,subdomain
 1784,www.portfolio
 1784,*.d
 1778,pad
-1776,tst
+1777,tst
 1769,da
 1768,one
 1766,blue
@@ -1007,7 +1007,7 @@ count,subdomain
 1227,www.video
 1226,bb
 1226,deploy
-1223,do
+1224,do
 1220,www.live
 1220,bookings
 1220,la
@@ -1546,8 +1546,8 @@ count,subdomain
 800,asia
 800,vivisanfelicecirceo
 800,foro
+800,radionode
 799,dev01
-799,radionode
 798,ko
 796,vo
 796,www.lp
@@ -1750,8 +1750,8 @@ count,subdomain
 698,task
 698,www.us
 697,www.gestion
+697,lu
 696,srv01
-696,lu
 695,ta
 695,webmail.dev
 695,s5
@@ -1776,9 +1776,9 @@ count,subdomain
 687,ceres
 687,matomo
 686,card
+686,stores
 686,mail.blog
 686,novosibirsk
-685,stores
 685,upgrade
 685,cra3
 684,webmaster
@@ -1798,9 +1798,9 @@ count,subdomain
 676,mailserver
 675,pat
 674,glpi
+673,secondary
 673,ses
 672,invoices
-672,secondary
 672,s112
 671,orange
 669,www.board
@@ -2331,11 +2331,11 @@ count,subdomain
 521,msg
 521,sab
 521,mx01
+521,shell
 521,appleid.apple.com
 521,ovation
 520,genesis
 520,anna
-520,shell
 520,commerce
 520,explorer
 520,relax
@@ -2514,10 +2514,10 @@ count,subdomain
 491,denver
 490,subsonic
 489,christmas
+489,air
 489,gsfc
 488,safe
 488,a2
-488,air
 488,biblioteca
 488,sante
 487,sftp
@@ -3628,6 +3628,7 @@ count,subdomain
 339,env
 339,viewer
 339,hirlevel
+339,*.database
 338,hostmaster
 338,ipam
 338,www.cc
@@ -3635,7 +3636,6 @@ count,subdomain
 338,counter
 338,prgn
 338,cdn-0
-338,*.database
 337,eo
 337,www.conference
 337,honda
@@ -3647,6 +3647,7 @@ count,subdomain
 337,tile
 337,150
 337,248
+337,*.secondary.database
 336,www.mantis
 336,test.api
 336,sean
@@ -3655,7 +3656,6 @@ count,subdomain
 336,kipling
 336,esi
 336,efis
-336,*.secondary.database
 335,cdc
 335,rsvp
 335,demo7
@@ -3732,6 +3732,7 @@ count,subdomain
 329,*.app
 329,integ
 329,fra
+329,bourse
 328,woocommerce
 328,amy
 328,www.ww2
@@ -3741,7 +3742,6 @@ count,subdomain
 328,fab943
 328,orderoftheapple
 328,eastus
-328,bourse
 328,display
 328,*.ismartphonenews
 328,asatorrehost
@@ -3788,6 +3788,7 @@ count,subdomain
 323,jan
 323,expert
 323,clientcare
+323,syndic
 323,jura
 322,fleet
 322,coin
@@ -3797,7 +3798,6 @@ count,subdomain
 322,anmeldung
 322,presentation
 322,imgs
-322,syndic
 322,pws
 322,sni80251
 322,*.statisticheprova
@@ -3855,6 +3855,7 @@ count,subdomain
 317,branch
 317,www.mc
 317,computer
+317,black
 317,composer
 317,washington
 317,dummy
@@ -3862,7 +3863,6 @@ count,subdomain
 317,funda
 317,admission
 316,ana
-316,black
 316,bugtracker
 316,videofarm
 316,films
@@ -4086,6 +4086,7 @@ count,subdomain
 300,parents
 300,cambridge
 300,emily
+300,ump
 300,prober
 299,soap
 299,saturn
@@ -4110,7 +4111,6 @@ count,subdomain
 298,cheboksary
 298,www.quiz
 298,testwp
-298,ump
 298,luna
 298,parish
 298,libguides
@@ -4220,6 +4220,7 @@ count,subdomain
 290,controller
 290,kodi
 290,domo
+290,bl
 290,ao
 290,first
 290,marc
@@ -4241,7 +4242,6 @@ count,subdomain
 288,thumbs
 288,hilfe
 288,traveler
-288,bl
 288,policy
 288,nice
 288,chinammm
@@ -4257,12 +4257,14 @@ count,subdomain
 288,sni59097
 288,952e
 288,wgn
+288,northeurope1-a
 287,sni113031
 287,g1
 287,real
 287,provider
 287,sex
 287,sni147674
+287,udg
 287,repetitor
 286,prom
 286,elections
@@ -4276,10 +4278,8 @@ count,subdomain
 286,php70
 286,www.magazin
 286,www.sport
-286,udg
 286,sni169639
 286,asdangelineri
-286,northeurope1-a
 286,xyz1004
 285,vancouver
 285,secured
@@ -4735,6 +4735,7 @@ count,subdomain
 260,jiapu
 259,victor
 259,testweb
+259,prints
 259,server7
 259,olga
 259,www.david
@@ -4774,7 +4775,6 @@ count,subdomain
 258,cp4
 258,doorways
 258,visitweb
-257,prints
 257,arquivos
 257,www.dolibarr
 257,dc1
@@ -6235,6 +6235,7 @@ count,subdomain
 199,megan
 199,elektro
 199,officeapps
+199,psi
 199,fixit
 199,www.at
 199,employer
@@ -6257,7 +6258,6 @@ count,subdomain
 198,collections
 198,demo06
 198,advertise
-198,psi
 198,amigos
 198,liz
 198,culture
@@ -7135,6 +7135,7 @@ count,subdomain
 174,profit
 174,wolf
 174,corsi
+174,frankfurt
 174,nntp
 174,cpcontacts
 174,notprod
@@ -7183,7 +7184,6 @@ count,subdomain
 173,bulletin
 173,nr
 173,mdev
-173,frankfurt
 173,asm
 173,39
 173,*.nikeshoessales
@@ -9225,6 +9225,7 @@ count,subdomain
 136,kyle
 136,gz
 136,dap
+136,eecs
 136,userside
 136,nix
 136,telekom
@@ -9304,7 +9305,6 @@ count,subdomain
 135,ebanking
 135,cq
 135,stlouis
-135,eecs
 135,www.projekt
 135,sb3
 135,cpl
