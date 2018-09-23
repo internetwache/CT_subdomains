@@ -1,23 +1,23 @@
-# Generated 2018-09-23 19:01:23.613357
+# Generated 2018-09-23 20:02:16.506959
 count,subdomain
-63771584,*
-26907494,www
-4935759,mail
-3085859,webmail
-3030277,webdisk
-2892296,cpanel
-1241873,autodiscover
+63772079,*
+26907830,www
+4935825,mail
+3085888,webmail
+3030308,webdisk
+2892325,cpanel
+1241884,autodiscover
 214981,dev
-158006,test
+158009,test
 152953,m
 140280,blog
 108305,api
 106339,shop
-92075,staging
+92077,staging
 91281,whm
 86198,admin
 84148,com
-83528,sni
+83530,sni
 80125,mdp
 71355,demo
 68669,ftl
@@ -27,14 +27,14 @@ count,subdomain
 50745,new
 49033,support
 49030,mobile
-48978,tls
+48981,tls
 46620,ftp
-43601,beta
+43602,beta
 41000,multidomain-prober
 40716,cdn
 36497,secure
 35638,forum
-34762,www.test
+34763,www.test
 34661,imap
 34043,mgames
 34040,www.blog
@@ -45,7 +45,7 @@ count,subdomain
 33289,static
 33175,qa
 32850,store
-31480,wp
+31482,wp
 28809,1
 28301,eu
 28155,git
@@ -61,10 +61,10 @@ count,subdomain
 24713,web
 24255,sandbox
 23673,mbox12
-22183,fr
+22184,fr
 21091,pop3
-20561,crm
-20382,vpn
+20562,crm
+20391,vpn
 20369,www.mail
 20340,my
 20304,www.shop
@@ -76,7 +76,7 @@ count,subdomain
 18416,core
 18413,home
 18191,de
-18049,autoconfig
+18050,autoconfig
 17955,us
 17769,info
 16533,r
@@ -89,7 +89,7 @@ count,subdomain
 15410,ipv6
 15158,gay
 14892,www.m
-14882,uk
+14884,uk
 14414,email
 14249,stats
 14129,intranet
@@ -133,14 +133,14 @@ count,subdomain
 10147,i
 10140,help
 10091,site
-10081,www.wp
+10082,www.wp
 9997,clients
 9827,www.webmail
 9789,s
 9786,go
 9785,video
 9720,at
-9697,net
+9705,net
 9692,ssl
 9688,live
 9646,it
@@ -184,7 +184,7 @@ count,subdomain
 7402,www.beta
 7356,fna
 7354,www.server
-7298,staging1
+7300,staging1
 7295,gallery
 7232,content
 7161,web01
@@ -240,7 +240,7 @@ count,subdomain
 5758,moodle
 5741,in
 5718,www.support
-5711,erp
+5713,erp
 5671,lab
 5642,docker
 5629,d
@@ -254,7 +254,7 @@ count,subdomain
 5329,pro
 5316,virtd
 5310,2
-5303,connect
+5308,connect
 5288,forums
 5283,lyncdiscover
 5278,helpdesk
@@ -272,7 +272,7 @@ count,subdomain
 5064,storage
 5046,amysql
 5045,pay
-5019,photo
+5020,photo
 4988,mysql10
 4980,mysql02
 4976,mysql01
@@ -324,13 +324,13 @@ count,subdomain
 4470,learn
 4435,meet
 4412,webdav
-4387,test1
+4389,test1
 4363,lp
 4356,www1
 4338,ds
 4336,e
 4311,web04
-4297,id
+4299,id
 4294,rss
 4292,school
 4284,magento
@@ -396,7 +396,7 @@ count,subdomain
 3475,landing
 3469,work
 3466,usdemo
-3458,member
+3459,member
 3449,temp
 3437,caldav
 3431,expertwitness
@@ -428,8 +428,8 @@ count,subdomain
 3223,fcell
 3220,elearning
 3220,www.static
+3166,www.staging1
 3166,book
-3165,www.staging1
 3164,acc
 3157,sync
 3151,server2
@@ -689,7 +689,7 @@ count,subdomain
 1929,hana
 1920,www.files
 1918,radarr
-1917,ps
+1918,ps
 1915,m.de
 1911,www.piwik
 1909,www.site
@@ -824,7 +824,7 @@ count,subdomain
 1559,mantis
 1559,ww2
 1558,ma
-1552,testsite
+1554,testsite
 1551,apjdemo
 1548,rds
 1546,dc
@@ -1111,7 +1111,7 @@ count,subdomain
 1100,xyz
 1099,unms
 1099,qa2
-1097,www.erp
+1098,www.erp
 1097,webdesign
 1096,katalog
 1096,fmi-beta
@@ -1161,8 +1161,8 @@ count,subdomain
 1059,api.dev
 1058,www.2
 1058,url
+1056,www.test1
 1056,sonar
-1055,www.test1
 1054,pdf
 1054,crypto
 1053,lb
@@ -1260,10 +1260,10 @@ count,subdomain
 972,10
 971,sm
 971,noc
+971,weddings
 970,property
 970,*.mail
 969,lv
-969,weddings
 968,sni196854
 967,print
 966,tc
@@ -1692,6 +1692,7 @@ count,subdomain
 720,bus222d16
 719,sap
 717,mobile3
+717,stores
 717,www.smtp
 717,dt
 716,matt
@@ -1705,7 +1706,6 @@ count,subdomain
 713,fl
 713,product
 713,citio
-713,stores
 713,adam
 713,www-dev
 712,tg
@@ -1950,13 +1950,13 @@ count,subdomain
 616,wp3
 615,vk
 614,apis
+614,securemail
 614,pf
 614,aulavirtual
 614,internet-tools
 614,locatelliriccardo
 613,spark
 613,www.bot
-613,securemail
 613,windows
 613,class
 613,ben
@@ -2017,8 +2017,8 @@ count,subdomain
 596,grg
 596,www.i
 595,www.accounts
+595,so
 594,science
-594,so
 594,casa
 594,fpoa11-1
 593,www.t
@@ -2240,9 +2240,9 @@ count,subdomain
 543,gutscheine
 543,auction
 543,fgt-f1
+542,www.testsite
 542,newsletters
 541,www.website
-541,www.testsite
 541,university
 541,p2
 541,ht
@@ -3088,6 +3088,7 @@ count,subdomain
 398,victoria
 398,audit
 398,losangeles
+398,bryan
 398,sni192793
 398,www.club
 397,fin
@@ -3104,7 +3105,6 @@ count,subdomain
 396,joe
 396,programs
 396,dn
-396,bryan
 396,antares-test
 396,proxyautomation
 396,gabrielecareddu
@@ -3287,6 +3287,7 @@ count,subdomain
 375,two
 375,cgi-sys
 374,sell
+374,www.weddings
 374,webmail.demo
 374,belgorod
 374,ke
@@ -3298,7 +3299,6 @@ count,subdomain
 373,shopware
 373,www.mx
 373,rnd
-373,www.weddings
 373,www.fashion
 373,jim
 373,cs01
@@ -3786,6 +3786,7 @@ count,subdomain
 324,westus1-a
 323,weblog
 323,jan
+323,cws
 323,expert
 323,clientcare
 323,syndic
@@ -3808,7 +3809,6 @@ count,subdomain
 321,journals
 321,pv
 321,firma
-321,cws
 321,georgia
 321,fileshare
 321,south
@@ -4193,6 +4193,7 @@ count,subdomain
 293,office365
 293,abe
 292,ld
+292,ao
 292,notebook
 292,n1
 292,solr
@@ -4222,7 +4223,6 @@ count,subdomain
 290,kodi
 290,domo
 290,bl
-290,ao
 290,first
 290,marc
 290,statuspage
@@ -5967,6 +5967,7 @@ count,subdomain
 208,simpeg
 208,sharp
 208,places
+208,gianpierocardani
 208,wallpaper
 208,ccnmarinadicastagneto
 208,tokensale
@@ -6026,7 +6027,6 @@ count,subdomain
 206,rules
 206,priv
 206,doroof
-206,gianpierocardani
 206,www.theme
 206,www.cam
 206,www.hrm
@@ -6099,6 +6099,7 @@ count,subdomain
 203,mebel
 203,www.ua
 203,php7
+203,cdr
 203,chel
 203,cdo
 203,www.hotels
@@ -6170,7 +6171,6 @@ count,subdomain
 201,ftps
 201,lessons
 201,wwwtst
-201,cdr
 201,bcs
 201,minerva
 201,maestro
@@ -8471,6 +8471,7 @@ count,subdomain
 148,woudhout
 148,vaillant
 148,3.www
+148,idev
 148,scraper
 148,sauron
 148,adz
@@ -8593,7 +8594,6 @@ count,subdomain
 146,tpl
 146,darwin
 146,sir
-146,idev
 146,cep
 146,sub8
 146,sub9
@@ -8825,6 +8825,7 @@ count,subdomain
 142,242
 142,svizzy
 142,www.sso
+142,telugu
 142,cdn10
 142,kurssim
 142,supervisor
@@ -8944,7 +8945,6 @@ count,subdomain
 140,web6
 140,www.course
 140,mdb
-140,telugu
 140,ssn
 140,mail5
 140,nelson
