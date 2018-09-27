@@ -1,21 +1,21 @@
-# Generated 2018-09-27 15:03:06.002444
+# Generated 2018-09-27 16:02:40.069047
 count,subdomain
-63796454,*
-26924529,www
-4939009,mail
-3088037,webmail
-3032314,webdisk
-2894330,cpanel
-1242897,autodiscover
-215147,dev
+63796458,*
+26924642,www
+4939059,mail
+3088073,webmail
+3032348,webdisk
+2894364,cpanel
+1242906,autodiscover
+215148,dev
 158111,test
 153475,m
 140360,blog
 108397,api
 106386,shop
 92133,staging
-91333,whm
-86242,admin
+91335,whm
+86244,admin
 84720,sni
 84262,com
 80125,mdp
@@ -29,7 +29,7 @@ count,subdomain
 49038,mobile
 49010,tls
 46645,ftp
-43631,beta
+43637,beta
 41000,multidomain-prober
 40756,cdn
 36527,secure
@@ -43,7 +43,7 @@ count,subdomain
 33411,en
 33312,static
 33296,status
-33194,qa
+33195,qa
 32947,store
 31484,wp
 28873,1
@@ -65,8 +65,8 @@ count,subdomain
 21099,pop3
 20592,crm
 20434,vpn
-20413,www.mail
-20359,my
+20415,www.mail
+20360,my
 20310,www.shop
 19956,p
 19645,members
@@ -151,7 +151,7 @@ count,subdomain
 9207,services
 9152,client
 8993,wap
-8985,www.admin
+8986,www.admin
 8976,a
 8957,cn
 8931,nextcloud
@@ -181,7 +181,7 @@ count,subdomain
 7613,pt
 7559,jenkins
 7556,www.staging
-7408,www.beta
+7409,www.beta
 7358,fna
 7357,www.server
 7303,gallery
@@ -345,13 +345,13 @@ count,subdomain
 4123,gw
 4123,www.email
 4122,kunden
-4114,testonly
+4115,testonly
 4056,sms
 4054,oc
 4050,proxy
-4047,secretstore
+4048,secretstore
 4046,correo
-4043,testonly.secretstore
+4044,testonly.secretstore
 3993,project
 3987,dev1
 3981,travel
@@ -642,7 +642,7 @@ count,subdomain
 2096,comet3
 2095,log
 2092,ym04
-2089,cloudapp
+2090,cloudapp
 2088,qq
 2080,user
 2079,onpage
@@ -848,8 +848,8 @@ count,subdomain
 1497,hotels
 1496,time
 1496,www.panel
+1488,post
 1485,msoid
-1485,post
 1485,divercities
 1483,sb
 1479,svc
@@ -918,9 +918,9 @@ count,subdomain
 1381,staging4
 1377,img1
 1376,dsm
+1373,management
 1372,network
 1371,mijn
-1371,management
 1369,infra
 1366,5
 1366,lt
@@ -1141,11 +1141,11 @@ count,subdomain
 1071,hass
 1070,sky
 1070,rb
+1069,drone
 1069,html
 1069,multicraft
 1068,sni113833
 1068,*.quartasirioinformatica
-1068,drone
 1068,ec
 1068,on
 1066,samara
@@ -1838,11 +1838,11 @@ count,subdomain
 659,oud
 659,webbshop
 659,staging6
+658,vc
 658,course
 658,na36
 657,own
 657,extra
-656,vc
 656,media2
 656,www.landing
 656,ismartphonenews
@@ -2226,6 +2226,7 @@ count,subdomain
 546,electronics-eu
 546,cp-ht-1
 545,migration
+545,ed
 545,auction
 544,maggiosergnanese
 544,dev-api
@@ -2236,7 +2237,6 @@ count,subdomain
 543,www.event
 543,www.update
 543,npm
-543,ed
 543,wharton
 543,gutscheine
 543,fgt-f1
@@ -3570,6 +3570,7 @@ count,subdomain
 345,kitchen
 345,www6
 345,tube
+344,interface
 344,elite
 344,shops
 344,homologacao
@@ -3582,7 +3583,6 @@ count,subdomain
 344,*.secondary.database
 344,cybersecurityavogadro
 344,killersofkids
-343,interface
 343,kafka
 343,www.mailer
 343,compass
@@ -4743,6 +4743,7 @@ count,subdomain
 259,server7
 259,olga
 259,sugarcrm
+259,www.post
 259,jazz
 259,bts
 259,toulouse
@@ -4765,7 +4766,6 @@ count,subdomain
 258,encuestas
 258,www.iwp
 258,opendata
-258,www.post
 258,erik
 258,cds
 258,an
@@ -5380,6 +5380,7 @@ count,subdomain
 231,msc
 231,terra
 231,mail.staging
+231,www.management
 231,hope
 231,testssl
 231,www.pec
@@ -5411,7 +5412,6 @@ count,subdomain
 230,kantoor
 230,kg
 230,tas
-230,www.management
 230,nieuwsbrief
 230,teamspeak
 230,editorial
@@ -8947,6 +8947,7 @@ count,subdomain
 140,entreprise
 140,employers
 140,jms
+140,fcm
 140,itop
 140,static5
 140,int2
@@ -9013,7 +9014,6 @@ count,subdomain
 139,yakutsk
 139,sai
 139,lis
-139,fcm
 139,yy
 139,ags
 139,www.static2
@@ -9548,6 +9548,7 @@ count,subdomain
 132,rebuild
 132,tattoo
 132,jenkins.dev
+132,mail.beta
 132,71
 132,blibbox
 132,tshirt
@@ -9640,7 +9641,6 @@ count,subdomain
 131,editions
 131,www.emails
 131,eclipse
-131,mail.beta
 131,cls
 131,www.proyectos
 131,brad
@@ -15748,6 +15748,7 @@ count,subdomain
 84,dev001
 84,gyq
 84,mail.loja
+84,webmail.beta
 84,haloguardians
 84,www.tennis
 84,playbook
@@ -15964,7 +15965,6 @@ count,subdomain
 83,homedecor
 83,www.volleybalschoenen
 83,vcs03
-83,webmail.beta
 83,pdm
 83,medicina
 83,fundacion
@@ -16351,6 +16351,7 @@ count,subdomain
 81,malmo
 81,zpush
 81,wmw
+81,webdisk.beta
 81,panasonic
 81,znak
 81,mail.clients
@@ -16552,7 +16553,7 @@ count,subdomain
 80,www.birthday
 80,azul
 80,mail.email
-80,webdisk.beta
+80,cpanel.beta
 80,albertocominelli
 80,rgenest099203
 80,ministry
@@ -16875,7 +16876,6 @@ count,subdomain
 79,swap
 79,demoweb
 79,www.bp
-79,cpanel.beta
 79,anders
 79,mailchimp
 79,webdisk.api
@@ -17027,6 +17027,7 @@ count,subdomain
 78,tuttoquellochenonso
 78,commander
 78,www.ddd
+78,www.vc
 78,immobilieninungarn
 78,trainingwizardofozcomau
 78,contenidos
@@ -17333,7 +17334,6 @@ count,subdomain
 77,sni226663
 77,*.species
 77,crp
-77,www.vc
 77,cet
 77,mariana
 77,*.daredevilprova
@@ -17887,6 +17887,7 @@ count,subdomain
 75,community.stage
 75,www.bw
 75,qa5
+75,deportes
 75,renewal
 75,empty
 75,kerala
@@ -18470,7 +18471,6 @@ count,subdomain
 73,moms
 73,www.misc
 73,webmail.news
-73,deportes
 73,pla
 73,cgdev
 73,sni228622
@@ -19122,6 +19122,7 @@ count,subdomain
 71,en-gb
 71,0227
 71,www.02
+71,joachim
 71,syspass
 71,homeoffice
 71,pgsql
@@ -19204,6 +19205,7 @@ count,subdomain
 70,together
 70,centreon
 70,wonttodarkness
+70,www.ed
 70,www.science
 70,richardselliot
 70,www.freedom
@@ -19634,7 +19636,6 @@ count,subdomain
 69,www.18
 69,bear
 69,www.333
-69,www.ed
 69,colors
 69,www.luxury
 69,eu3
@@ -19776,7 +19777,6 @@ count,subdomain
 69,zardoz
 69,0234
 69,0238
-69,joachim
 69,sni251741
 69,*.luxuryskihouse
 69,salem
@@ -27428,6 +27428,7 @@ count,subdomain
 53,office.cloud
 53,dimitri
 53,243839
+53,phillips
 53,sni228568
 53,*.betatv
 53,1b
@@ -32006,7 +32007,6 @@ count,subdomain
 47,digitalexperience
 47,equestria
 47,webdisk.dev2
-47,phillips
 47,devt
 47,sni228633
 47,*.usaviagra
@@ -96107,6 +96107,7 @@ count,subdomain
 22,www.roku
 22,impresabertoldimauro
 22,molecole
+22,www.deportes
 22,f2f
 22,sni135692
 22,htaiken
@@ -99999,4 +100000,3 @@ count,subdomain
 22,dama
 22,fu05
 22,caravel
-22,omeelilanews
