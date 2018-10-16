@@ -1,19 +1,19 @@
-# Generated 2018-10-16 08:02:05.721510
+# Generated 2018-10-16 09:01:27.986929
 count,subdomain
-63905328,*
-27015942,www
-4967482,mail
-3111252,webmail
-3054814,webdisk
-2916756,cpanel
-1256536,autodiscover
-215756,dev
+63905347,*
+27016128,www
+4967523,mail
+3111291,webmail
+3054849,webdisk
+2916789,cpanel
+1256556,autodiscover
+215757,dev
 158605,test
-154359,m
-140956,blog
+154360,m
+140964,blog
 108707,api
-106648,shop
-92369,staging
+106651,shop
+92371,staging
 91897,whm
 88004,sni
 86532,admin
@@ -21,7 +21,7 @@ count,subdomain
 80427,mdp
 71636,demo
 68869,ftl
-68015,cloud
+68016,cloud
 58886,smtp
 58264,app
 50926,new
@@ -44,7 +44,7 @@ count,subdomain
 33393,status
 33388,static
 33229,qa
-33043,store
+33046,store
 31652,wp
 29163,1
 28380,eu
@@ -63,7 +63,7 @@ count,subdomain
 23679,mbox12
 22247,fr
 21123,pop3
-20663,crm
+20665,crm
 20653,vpn
 20585,www.mail
 20421,my
@@ -76,17 +76,17 @@ count,subdomain
 18479,home
 18448,core
 18249,de
-18117,autoconfig
+18118,autoconfig
 18083,us
 17834,info
 16582,r
 16542,poczta
-16491,old
-16340,apps
+16498,old
+16341,apps
 16187,office
 15996,aws
 15945,sexy
-15856,ipv6
+15858,ipv6
 15159,gay
 15029,uk
 14977,www.m
@@ -107,7 +107,7 @@ count,subdomain
 13771,*.staging.ftl
 13703,img
 13677,login
-13496,cms
+13497,cms
 13146,www.demo
 13113,preview
 13100,mds
@@ -130,15 +130,15 @@ count,subdomain
 10473,uat
 10268,co
 10235,cp
-10177,help
+10178,help
 10166,i
 10130,site
 10112,www.wp
-10036,clients
-9863,www.webmail
+10037,clients
+9864,www.webmail
 9855,go
 9820,video
-9810,s
+9812,s
 9772,at
 9761,net
 9728,ssl
@@ -171,7 +171,7 @@ count,subdomain
 8053,analytics
 8050,www.store
 8018,org
-7899,wordpress
+7902,wordpress
 7892,panel
 7877,owa
 7759,www.news
@@ -179,7 +179,7 @@ count,subdomain
 7700,tbe
 7671,ax
 7645,pt
-7590,www.staging
+7591,www.staging
 7575,jenkins
 7441,www.beta
 7372,www.server
@@ -299,11 +299,11 @@ count,subdomain
 4840,pl
 4836,share
 4835,cs
-4785,www.old
+4786,www.old
 4780,monitor
 4778,tienda
 4777,hp
-4770,www.crm
+4771,www.crm
 4748,st
 4721,v1-prober
 4693,lists
@@ -331,8 +331,8 @@ count,subdomain
 4361,www1
 4346,ds
 4320,id
-4318,school
-4316,rss
+4320,school
+4317,rss
 4307,magento
 4307,rsc
 4287,pma
@@ -433,8 +433,8 @@ count,subdomain
 3175,book
 3173,www.staging1
 3165,sync
+3162,tracking
 3161,update
-3160,tracking
 3156,www.secure
 3148,teste
 3143,seo
@@ -486,7 +486,7 @@ count,subdomain
 2855,www.cdn
 2844,wedding
 2844,pc
-2841,eshop
+2842,eshop
 2824,tr
 2823,newsite
 2819,kibana
@@ -562,7 +562,7 @@ count,subdomain
 2468,lms
 2446,express
 2441,public
-2439,mautic
+2440,mautic
 2432,system
 2427,v1
 2419,register
@@ -591,7 +591,7 @@ count,subdomain
 2287,www.intranet
 2284,sp
 2283,conteudo
-2279,intra
+2281,intra
 2271,mc
 2267,g
 2262,pm
@@ -699,7 +699,7 @@ count,subdomain
 1910,auto
 1910,family
 1909,sharepoint
-1904,www.wordpress
+1905,www.wordpress
 1893,xmpp
 1892,try
 1874,rancher
@@ -990,7 +990,7 @@ count,subdomain
 1263,signupapp2
 1259,parts
 1258,student
-1254,career
+1255,career
 1253,ead
 1250,david
 1250,www.correo
@@ -1116,7 +1116,7 @@ count,subdomain
 1102,unms
 1100,prestashop
 1098,webdesign
-1097,www.school
+1098,www.school
 1097,8
 1097,katalog
 1097,www.ftp
@@ -1411,6 +1411,7 @@ count,subdomain
 860,os
 859,michael
 857,y
+857,conf
 857,www.dev2
 857,discover
 857,vote
@@ -1418,14 +1419,13 @@ count,subdomain
 857,perm
 857,www.prueba
 856,www.blogs
-856,conf
 855,ng
 855,www.services
 855,pd
 854,beheer
 854,tt
+854,templates
 854,pfsense
-853,templates
 853,galleries
 853,oldsite
 852,www-test
@@ -1584,8 +1584,8 @@ count,subdomain
 778,energeticamente
 778,www.preprod
 778,gov
+777,collabora
 777,www.social
-776,collabora
 776,www.manage
 776,membership
 775,statistik
@@ -2034,6 +2034,7 @@ count,subdomain
 593,www.e
 593,cloudapps
 592,www.2016
+592,aula
 592,*.quick
 592,frgn2-1
 591,hotspot
@@ -2043,7 +2044,6 @@ count,subdomain
 591,dropbox
 590,revista
 590,www.studio
-590,aula
 590,nsk
 589,qc
 589,franchise
@@ -2449,6 +2449,7 @@ count,subdomain
 505,www.design45
 505,weston.sd2
 504,cacti
+504,sistemas
 504,cron
 504,widgets
 504,www.file
@@ -2464,7 +2465,6 @@ count,subdomain
 502,www.main
 502,gm
 502,ne
-502,sistemas
 502,mms
 502,xibo
 502,www.design48
@@ -2494,9 +2494,9 @@ count,subdomain
 496,rosariolateral
 496,guadagnonweb
 496,mailsg
+496,www.tracking
 495,christmas
 495,locations
-495,www.tracking
 495,webs
 495,bitz
 494,discourse
@@ -2609,6 +2609,7 @@ count,subdomain
 473,tula
 473,backups
 472,lm
+472,otrs
 472,idm
 472,irkutsk
 472,www.pt
@@ -2616,7 +2617,6 @@ count,subdomain
 472,filmstreamingmv
 471,elk
 471,sign
-471,otrs
 471,mel
 471,penza
 471,graph
@@ -5229,6 +5229,7 @@ count,subdomain
 238,mad
 238,travis
 238,bj
+238,www.intra
 238,resellers
 238,www-q
 238,cp9
@@ -5246,7 +5247,6 @@ count,subdomain
 237,dance
 237,listas
 237,sni59038
-237,www.intra
 237,esb
 237,www.novosibirsk
 237,hannah
@@ -5807,6 +5807,7 @@ count,subdomain
 216,deutsche-seiten
 215,vms
 215,toolkit
+215,site-verify
 215,223
 215,servicos
 215,nds
@@ -5832,7 +5833,6 @@ count,subdomain
 214,www.tracker
 214,swi
 214,admin-dev
-214,site-verify
 214,sg1
 214,telecom
 214,www.car
@@ -6695,6 +6695,7 @@ count,subdomain
 186,www.agency
 186,min
 186,qqq
+186,mail.old
 186,devapp
 186,think
 186,tuderplast
@@ -6707,6 +6708,7 @@ count,subdomain
 186,www.tours
 186,oma
 186,www.mp3
+186,commande
 186,charles
 186,cj
 186,gem
@@ -6739,7 +6741,6 @@ count,subdomain
 185,eset
 185,datacenter
 185,zs
-185,mail.old
 185,nest
 185,moda
 185,heart
@@ -6778,7 +6779,6 @@ count,subdomain
 184,linode
 184,www.rc
 184,shipping
-184,commande
 184,marie
 184,48
 184,www.web2
@@ -6831,6 +6831,7 @@ count,subdomain
 183,www.statistik
 183,gsm
 183,nxt
+183,savannah
 183,iowa
 183,k12
 183,interior
@@ -6859,7 +6860,6 @@ count,subdomain
 182,www.franchise
 182,vnc
 182,debbie
-182,savannah
 182,www.cal
 182,qual
 182,test13
@@ -6950,6 +6950,7 @@ count,subdomain
 179,www.financeiro
 179,sni79144
 179,eps
+179,www.aula
 179,devin
 179,slim
 179,turbo
@@ -6986,7 +6987,6 @@ count,subdomain
 178,mail.ns1
 178,www.log
 178,zu
-178,www.aula
 178,descargas
 178,pharm
 178,akademik
@@ -7250,6 +7250,7 @@ count,subdomain
 172,sophia
 172,staging-blogs
 172,webcast
+172,jerry
 172,working
 172,myblog
 172,theegosgame
@@ -7346,7 +7347,6 @@ count,subdomain
 170,krhttpvod
 170,www.geo
 170,www.bogus
-170,jerry
 170,www.linkedin
 170,scleronet
 170,mint
