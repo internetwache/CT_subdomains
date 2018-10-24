@@ -1,12 +1,12 @@
-# Generated 2018-10-24 12:02:29.068055
+# Generated 2018-10-24 13:01:10.181872
 count,subdomain
-63946145,*
-27059708,www
+63946165,*
+27059738,www
 4976750,mail
 3118062,webmail
 3061209,webdisk
 2923093,cpanel
-1259322,autodiscover
+1259324,autodiscover
 216222,dev
 158919,test
 154821,m
@@ -16,7 +16,7 @@ count,subdomain
 92499,staging
 92101,whm
 89140,sni
-86695,admin
+86697,admin
 84940,com
 80427,mdp
 71808,demo
@@ -57,18 +57,18 @@ count,subdomain
 25889,stage
 25366,portal
 25359,pop
-25292,remote
+25294,remote
 24846,web
 24350,sandbox
 23695,mbox12
 22268,fr
 21129,pop3
-20743,vpn
+20745,vpn
 20723,www.mail
 20709,crm
 20449,my
 20427,www.shop
-20093,p
+20110,p
 19698,members
 19389,love
 19184,*.1
@@ -83,7 +83,7 @@ count,subdomain
 16553,old
 16548,poczta
 16409,apps
-16217,office
+16219,office
 16019,ipv6
 16019,aws
 15945,sexy
@@ -127,9 +127,9 @@ count,subdomain
 10763,data
 10619,www.new
 10614,dashboard
-10490,uat
+10492,uat
 10276,co
-10261,cp
+10263,cp
 10208,help
 10169,i
 10149,site
@@ -166,7 +166,7 @@ count,subdomain
 8371,sdp
 8210,photos
 8166,www.cloud
-8135,azurewebsites
+8138,azurewebsites
 8099,mysql
 8084,wordpress
 8072,www.store
@@ -203,7 +203,7 @@ count,subdomain
 6798,developer
 6797,corp
 6733,database
-6717,www.remote
+6718,www.remote
 6664,yak
 6638,c
 6613,assets
@@ -260,7 +260,7 @@ count,subdomain
 5316,virtd
 5297,lyncdiscover
 5291,mboss
-5282,scm
+5291,scm
 5278,ar
 5261,search
 5235,apple
@@ -342,13 +342,13 @@ count,subdomain
 4235,backend
 4213,hub
 4181,be
-4167,testonly
+4169,testonly
 4166,www.email
 4141,kunden
 4132,gw
 4112,3
-4100,secretstore
-4096,testonly.secretstore
+4102,secretstore
+4098,testonly.secretstore
 4087,correo
 4087,dev1
 4080,sms
@@ -719,9 +719,9 @@ count,subdomain
 1823,signup
 1821,reg
 1820,mkt
+1820,consent
 1819,n
 1818,2015
-1817,consent
 1802,sc
 1799,www.staging2
 1796,www.portfolio
@@ -736,7 +736,7 @@ count,subdomain
 1764,casemoderne
 1761,www.apps
 1760,state
-1755,cas
+1757,cas
 1754,*.w
 1750,as
 1749,deals
@@ -752,7 +752,7 @@ count,subdomain
 1721,m.pt
 1719,plesk
 1719,publish
-1716,*.admin
+1718,*.admin
 1714,ezproxy
 1711,is
 1709,pruebas
@@ -777,9 +777,9 @@ count,subdomain
 1657,mailer
 1655,notes
 1655,ee
+1655,*.consent
 1653,cf
 1652,ext
-1652,*.consent
 1650,orders
 1647,spb
 1646,apjdemo
@@ -890,8 +890,8 @@ count,subdomain
 1434,gclbp
 1433,www.office
 1433,developers
+1433,enc
 1431,sts
-1431,enc
 1429,lyncdiscoverinternal
 1429,ac
 1427,bugs
@@ -977,7 +977,7 @@ count,subdomain
 1283,weixin
 1283,nagios
 1283,www.docs
-1281,enc.p.azurewebsites
+1283,enc.p.azurewebsites
 1280,mon
 1280,cp1
 1279,deai
@@ -2513,6 +2513,7 @@ count,subdomain
 493,cse
 493,sni210655
 493,*.sicilianticamilazzoblog
+493,sftp
 493,collab
 493,robot
 493,denver
@@ -2525,7 +2526,6 @@ count,subdomain
 491,www.uat
 491,to
 490,miami
-489,sftp
 489,a2
 489,gsfc
 489,sante
@@ -3204,6 +3204,7 @@ count,subdomain
 387,www.sip
 387,img7
 387,ri
+386,sonarqube
 386,line
 386,www.up
 386,ck
@@ -3224,7 +3225,6 @@ count,subdomain
 385,sun
 385,bootstrap
 384,trans
-384,sonarqube
 384,www.test3
 384,sni167553
 384,*.careersabc
@@ -4084,6 +4084,7 @@ count,subdomain
 302,ci-engage-pr-485
 301,salesforce
 301,mirrors
+301,elearn
 301,klanten
 301,professional
 301,accessories
@@ -4109,7 +4110,6 @@ count,subdomain
 299,acl
 299,mega
 299,fox
-299,elearn
 299,ky
 299,soap
 299,www.ecommerce
