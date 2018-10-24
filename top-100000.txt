@@ -1,6 +1,6 @@
-# Generated 2018-10-24 08:02:26.222732
+# Generated 2018-10-24 09:02:22.859155
 count,subdomain
-63946043,*
+63946096,*
 27059598,www
 4976747,mail
 3118058,webmail
@@ -16,7 +16,7 @@ count,subdomain
 92499,staging
 92101,whm
 89140,sni
-86692,admin
+86694,admin
 84940,com
 80427,mdp
 71808,demo
@@ -28,7 +28,7 @@ count,subdomain
 49254,support
 49234,tls
 49209,mobile
-46859,ftp
+46863,ftp
 43888,beta
 41300,multidomain-prober
 40923,cdn
@@ -68,7 +68,7 @@ count,subdomain
 20707,crm
 20449,my
 20427,www.shop
-20057,p
+20081,p
 19698,members
 19389,love
 19184,*.1
@@ -166,8 +166,8 @@ count,subdomain
 8371,sdp
 8210,photos
 8166,www.cloud
-8111,azurewebsites
-8094,mysql
+8127,azurewebsites
+8096,mysql
 8084,wordpress
 8072,www.store
 8063,analytics
@@ -203,9 +203,9 @@ count,subdomain
 6798,developer
 6797,corp
 6713,www.remote
+6685,database
 6664,yak
 6638,c
-6629,database
 6613,assets
 6587,registry
 6585,ci
@@ -260,8 +260,8 @@ count,subdomain
 5316,virtd
 5296,lyncdiscover
 5291,mboss
+5280,scm
 5278,ar
-5276,scm
 5261,search
 5235,apple
 5204,ws
@@ -343,14 +343,14 @@ count,subdomain
 4213,hub
 4181,be
 4166,www.email
-4154,testonly
+4159,testonly
 4141,kunden
 4132,gw
 4112,3
+4092,secretstore
+4088,testonly.secretstore
 4087,correo
 4087,dev1
-4087,secretstore
-4083,testonly.secretstore
 4080,sms
 4076,oc
 4066,proxy
@@ -395,10 +395,10 @@ count,subdomain
 3509,business
 3503,usdemo
 3495,landing
+3489,worker
 3485,member
 3480,work
 3471,temp
-3459,worker
 3458,doc
 3446,link
 3444,caldav
@@ -462,8 +462,8 @@ count,subdomain
 3038,5267076-init.sl
 3038,5267076-init
 3019,www.my
+3009,control
 3003,cv
-3001,control
 2996,demo2
 2981,cz
 2952,order
@@ -721,7 +721,7 @@ count,subdomain
 1820,mkt
 1819,n
 1818,2015
-1814,consent
+1816,consent
 1802,sc
 1799,www.staging2
 1796,www.portfolio
@@ -735,7 +735,7 @@ count,subdomain
 1770,www.chat
 1764,casemoderne
 1761,www.apps
-1755,state
+1757,state
 1754,cas
 1754,*.w
 1750,as
@@ -751,9 +751,9 @@ count,subdomain
 1723,engineering
 1721,m.pt
 1719,plesk
+1717,publish
+1715,*.admin
 1714,ezproxy
-1713,publish
-1713,*.admin
 1711,is
 1709,pruebas
 1709,ml
@@ -779,8 +779,8 @@ count,subdomain
 1655,ee
 1653,cf
 1652,ext
+1651,*.consent
 1650,orders
-1649,*.consent
 1647,spb
 1646,apjdemo
 1645,www.tienda
@@ -891,9 +891,9 @@ count,subdomain
 1433,www.office
 1433,developers
 1431,sts
+1431,enc
 1429,ac
 1428,lyncdiscoverinternal
-1428,enc
 1427,bugs
 1424,lk
 1422,front
@@ -977,10 +977,10 @@ count,subdomain
 1283,weixin
 1283,nagios
 1283,www.docs
+1281,enc.p.azurewebsites
 1280,mon
 1280,cp1
 1279,deai
-1278,enc.p.azurewebsites
 1277,www.cpanel
 1272,redirector.int
 1271,2014
@@ -1765,6 +1765,7 @@ count,subdomain
 695,www.archive
 695,autograph
 694,pb
+694,secondary
 694,stream4
 693,alertmanager
 693,verkkokauppa
@@ -1779,7 +1780,6 @@ count,subdomain
 691,stories
 690,card
 690,tb
-689,secondary
 689,matomo
 688,pms
 687,ceres
@@ -2158,6 +2158,7 @@ count,subdomain
 562,www.alpha
 562,portraits
 562,facturacion
+562,hs1
 562,divi
 562,thewrongpenguin
 561,d8
@@ -2178,7 +2179,6 @@ count,subdomain
 558,www.games
 558,debian
 558,www.eshop
-558,hs1
 558,arteg
 558,atomv2
 557,sn
@@ -2739,6 +2739,7 @@ count,subdomain
 454,www.mobil
 454,provadivalutazione
 454,venzoneillustrazione
+454,hs3
 454,*.cinaincucina
 454,*.prvdevav5999
 454,sni139296
@@ -2757,6 +2758,7 @@ count,subdomain
 452,doku
 452,km
 452,www.spb
+452,hs2
 451,alerts
 451,now
 451,rabbitmq
@@ -2764,7 +2766,6 @@ count,subdomain
 450,guides
 450,www.backoffice
 450,ak
-450,hs3
 450,tramezzineria
 449,inbox
 449,www.cursos
@@ -2776,7 +2777,6 @@ count,subdomain
 448,gq
 448,simon
 448,catchall-server-default
-448,hs2
 447,parking
 447,engage
 447,sea
@@ -3457,6 +3457,7 @@ count,subdomain
 358,starfleet
 358,kw
 358,www.www1
+358,*.database
 358,eva-mebel
 357,mitsubishi
 357,turismo
@@ -3466,6 +3467,7 @@ count,subdomain
 357,influxdb
 357,jdih
 357,tags
+357,*.secondary.database
 356,man
 356,andrea
 356,ismart
@@ -3496,7 +3498,6 @@ count,subdomain
 354,latte
 354,idaho
 354,test123
-354,*.database
 354,ci-gsix-os
 354,ci-ops
 353,craft
@@ -3524,7 +3525,6 @@ count,subdomain
 352,pgs
 352,jboss
 352,hanavlab
-352,*.secondary.database
 352,fantaeccellenza
 352,autoupdate-tools
 351,https
@@ -3639,6 +3639,7 @@ count,subdomain
 340,slc
 340,redscarfstories
 340,www.stream4
+340,northeurope1-a
 339,cdc
 339,ipam
 339,env
@@ -4054,7 +4055,6 @@ count,subdomain
 304,derp
 304,libguides
 304,lagrammaticadellanima
-304,northeurope1-a
 303,foo
 303,www.galerie
 303,calibre
@@ -4601,6 +4601,7 @@ count,subdomain
 267,reserve
 267,intro
 267,mapa
+267,postgres
 267,sukreto
 267,sni59074
 267,ts8
@@ -4636,7 +4637,6 @@ count,subdomain
 265,vpn1
 265,sb1
 265,c7
-265,postgres
 265,promos
 265,sciencechannel
 265,sape
@@ -7970,6 +7970,8 @@ count,subdomain
 158,*.fanfictionlovers
 158,moneydashboard-tools
 158,rezaur
+158,*.postgres.database
+158,*.mysql.database
 158,iedit
 157,dev-app
 157,produk
@@ -8063,8 +8065,6 @@ count,subdomain
 156,sni174986
 156,retsch
 156,sni229013
-156,*.postgres.database
-156,*.mysql.database
 156,afdfolderbuilder-prod-cy2.CY2.agent.core
 156,afdfolderbuilder-prod-cy2
 156,ang-stnr-test-rcs
@@ -89083,6 +89083,7 @@ count,subdomain
 24,bb040
 24,arroyito
 24,myshopeverywere
+24,tr557
 24,dfat-passports
 24,dfat-website
 24,dynamicsoflanguage
@@ -99999,4 +100000,3 @@ count,subdomain
 22,tishost2016
 22,enwia
 22,marcin-blachbud
-22,kenozoik
