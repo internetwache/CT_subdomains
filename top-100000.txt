@@ -1,30 +1,30 @@
-# Generated 2018-11-06 20:02:39.449078
+# Generated 2018-11-06 21:03:03.828693
 count,subdomain
-63980905,*
-27116357,www
-4990710,mail
-3126838,webmail
-3069483,webdisk
-2931355,cpanel
-1262742,autodiscover
-216733,dev
+63980929,*
+27116441,www
+4990738,mail
+3126854,webmail
+3069498,webdisk
+2931369,cpanel
+1262747,autodiscover
+216734,dev
 159402,test
 155119,m
 141769,blog
-109099,api
-107049,shop
+109101,api
+107050,shop
 92722,staging
 92378,whm
-90322,sni
-86975,admin
-85456,com
+90325,sni
+86977,admin
+85459,com
 80528,mdp
 72043,demo
 69069,ftl
 68282,cloud
 59078,smtp
 58512,app
-51137,new
+51138,new
 49385,tls
 49355,support
 49271,mobile
@@ -40,7 +40,7 @@ count,subdomain
 34171,mgames
 33963,gameflex
 33677,liveupdate
-33584,en
+33586,en
 33512,static
 33451,status
 33279,store
@@ -63,8 +63,8 @@ count,subdomain
 23701,mbox12
 22289,fr
 21154,pop3
-20885,www.mail
-20825,vpn
+20886,www.mail
+20830,vpn
 20786,crm
 20497,my
 20493,www.shop
@@ -129,7 +129,7 @@ count,subdomain
 10639,dashboard
 10522,uat
 10332,co
-10293,cp
+10295,cp
 10229,help
 10190,site
 10173,i
@@ -149,9 +149,9 @@ count,subdomain
 9407,host
 9292,auth
 9277,services
-9258,client
+9260,client
 9119,wap
-9077,www.admin
+9078,www.admin
 9035,a
 9016,nextcloud
 8997,cn
@@ -193,7 +193,7 @@ count,subdomain
 7181,ag
 7161,vps
 7109,phpmyadmin
-7082,mx
+7085,mx
 6881,online
 6879,projects
 6866,www.app
@@ -236,7 +236,7 @@ count,subdomain
 5898,redmine
 5877,community
 5854,billing
-5837,www.en
+5838,www.en
 5825,moodle
 5824,training
 5779,www.support
@@ -386,7 +386,7 @@ count,subdomain
 3592,get
 3584,wpc
 3581,boutique
-3558,legacy
+3559,legacy
 3557,cdn2
 3552,archive
 3539,dk
@@ -753,7 +753,7 @@ count,subdomain
 1723,engineering
 1722,plesk
 1722,m.pt
-1718,ezproxy
+1720,ezproxy
 1715,full
 1714,is
 1711,pruebas
@@ -811,8 +811,8 @@ count,subdomain
 1596,th
 1595,finance
 1595,cl
+1595,www.vpn
 1594,torrent
-1593,www.vpn
 1593,testsite
 1591,www.developer
 1590,electronics
@@ -827,8 +827,8 @@ count,subdomain
 1565,mantis
 1564,v2-gclb-prober
 1563,megaadm
+1558,www.client
 1557,rds
-1557,www.client
 1557,alumni
 1557,dc
 1555,corporate
@@ -1032,7 +1032,7 @@ count,subdomain
 1207,trial
 1206,deluge
 1205,ja
-1202,api2
+1203,api2
 1202,products
 1200,pbx
 1194,ap
@@ -1044,9 +1044,9 @@ count,subdomain
 1185,www.go
 1183,smart
 1183,webapp
+1178,edge
 1178,kr
 1178,tccwest
-1177,edge
 1176,ecommerce
 1173,q
 1172,welcome
@@ -1916,13 +1916,13 @@ count,subdomain
 633,read
 633,reservas
 633,presenter
+632,spam
 632,kalender
 632,sni42322
 631,martin
 631,creative
 631,www.phpmyadmin
 630,sni207017
-630,spam
 630,mail.demo
 630,eu1
 630,whatsapp
@@ -2081,10 +2081,10 @@ count,subdomain
 583,c1
 583,*.frgn3-1.fna
 583,frgn3-1.fna
+582,dd
 582,berlin
 582,img4
 582,mailtrap
-581,dd
 581,acp
 581,monit
 581,he
@@ -17561,6 +17561,7 @@ count,subdomain
 77,sge
 77,lina
 77,tpp
+77,*.ezproxy
 77,r2d2
 77,map2
 77,sni42167
@@ -17813,7 +17814,6 @@ count,subdomain
 76,photoblog
 76,cosplay
 76,www.olivia
-76,*.ezproxy
 76,tuttianudo
 76,miller
 76,marcogreggio
@@ -22443,6 +22443,7 @@ count,subdomain
 62,qikfoam
 62,stari
 62,twin
+62,www.spam
 62,www.staging11
 62,orlandinocosimo
 62,www.poster
@@ -22992,7 +22993,6 @@ count,subdomain
 61,helene
 61,briefing
 61,phpmy
-61,www.spam
 61,int1
 61,www.bbb
 61,*.andreazani
@@ -27707,6 +27707,7 @@ count,subdomain
 53,sni200788
 53,msl
 53,powerbi
+53,autodiscovery
 53,freetrial
 53,sni21646
 53,easyweb
@@ -28343,7 +28344,6 @@ count,subdomain
 52,ergiandujotto
 52,nao
 52,saba
-52,autodiscovery
 52,ambrosia
 52,tammierutledge
 52,emapp
@@ -35267,6 +35267,7 @@ count,subdomain
 44,s26
 44,s69
 44,p16
+44,www-pp
 44,marktrails
 44,buysmartcardsonline
 44,sni248560
@@ -36979,7 +36980,6 @@ count,subdomain
 43,www.webdav
 43,a01
 43,d00
-43,www-pp
 43,au1
 43,shooting
 43,sni233845
@@ -54324,6 +54324,7 @@ count,subdomain
 32,dipierro
 32,startupmarzia
 32,applet
+32,experiencias
 32,solonewspiemonteblog
 32,sni10134
 32,infusoallamente
@@ -59499,7 +59500,6 @@ count,subdomain
 30,moorangol
 30,sni64234
 30,sni90491
-30,experiencias
 30,patriarcasangiuseppe
 30,www.repairs
 30,pirateproxy-co
@@ -99467,6 +99467,7 @@ count,subdomain
 22,www.usage
 22,dotfiles
 22,skupautgdynia-net
+22,notre-mariage
 22,buttons
 22,af996
 22,mvr
@@ -99999,4 +100000,3 @@ count,subdomain
 22,yukiru
 22,zout
 22,segratescacchi
-22,ethno
