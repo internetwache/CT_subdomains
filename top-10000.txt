@@ -1,23 +1,23 @@
-# Generated 2018-11-07 10:01:58.533386
+# Generated 2018-11-07 11:01:58.882283
 count,subdomain
-63981302,*
-27117682,www
-4991065,mail
-3127073,webmail
-3069696,webdisk
-2931569,cpanel
-1262838,autodiscover
-216746,dev
-159409,test
+63981319,*
+27117803,www
+4991111,mail
+3127103,webmail
+3069727,webdisk
+2931599,cpanel
+1262844,autodiscover
+216747,dev
+159412,test
 155123,m
-141770,blog
+141771,blog
 109103,api
 107050,shop
 92730,staging
 92382,whm
-90393,sni
+90395,sni
 86980,admin
-85497,com
+85502,com
 80528,mdp
 72049,demo
 69079,ftl
@@ -31,10 +31,10 @@ count,subdomain
 46953,ftp
 43995,beta
 41400,multidomain-prober
-41006,cdn
+41008,cdn
 36676,secure
 35936,forum
-35166,www.test
+35167,www.test
 34779,imap
 34377,www.blog
 34171,mgames
@@ -51,7 +51,7 @@ count,subdomain
 28380,git
 26889,prod
 26885,www.dev
-26606,wiki
+26608,wiki
 26519,news
 26343,server
 25944,stage
@@ -75,7 +75,7 @@ count,subdomain
 19051,media
 18593,home
 18536,core
-18303,de
+18305,de
 18175,autoconfig
 18150,us
 17919,info
@@ -168,7 +168,7 @@ count,subdomain
 8203,azurewebsites
 8194,www.cloud
 8114,org
-8112,wordpress
+8113,wordpress
 8111,mysql
 8094,www.store
 8083,analytics
@@ -225,12 +225,12 @@ count,subdomain
 6100,www.api
 6076,amp
 6005,ce
+6001,in
 6001,web03
 6000,web02
 5999,push
 5995,vinz
 5991,dav
-5985,in
 5951,t
 5907,test2
 5898,redmine
@@ -264,7 +264,7 @@ count,subdomain
 5299,ar
 5272,search
 5267,apple
-5218,ws
+5220,ws
 5199,ww
 5168,music
 5132,exchange
@@ -392,9 +392,9 @@ count,subdomain
 3539,dk
 3532,unifi
 3529,worker
-3524,www.wiki
+3525,www.wiki
 3518,business
-3510,landing
+3511,landing
 3503,usdemo
 3498,member
 3487,work
@@ -411,7 +411,7 @@ count,subdomain
 3371,wats
 3355,courses
 3350,br
-3341,map
+3343,map
 3340,calendar
 3335,monitoring
 3328,outlook
@@ -433,8 +433,8 @@ count,subdomain
 3190,www.staging1
 3188,acc
 3185,no
+3184,sync
 3184,update
-3183,sync
 3181,book
 3175,www.secure
 3172,tracking
@@ -519,7 +519,7 @@ count,subdomain
 2674,sso
 2666,conference
 2659,team
-2645,pages
+2646,pages
 2627,tech
 2622,ex
 2618,board
@@ -691,7 +691,7 @@ count,subdomain
 1940,radarr
 1940,www.site
 1939,v3
-1929,ps
+1931,ps
 1927,www.wordpress
 1927,m.de
 1920,www.piwik
@@ -992,8 +992,8 @@ count,subdomain
 1263,signupapp2
 1263,student
 1261,parts
+1257,ead
 1257,www.correo
-1255,ead
 1253,gogs
 1251,hello
 1251,mirror
@@ -3032,6 +3032,7 @@ count,subdomain
 408,mainwp
 408,famille
 407,localhost
+407,www.map
 407,diary
 407,dispatch
 407,toolbox
@@ -3040,7 +3041,6 @@ count,subdomain
 407,kirov
 407,script
 406,youth
-406,www.map
 406,www.code
 406,www.b
 406,www.staging5
@@ -3136,6 +3136,7 @@ count,subdomain
 396,22
 396,proxyautomation
 395,exp
+395,www.ws
 395,lifestyle
 395,ping
 395,ppc
@@ -3144,7 +3145,6 @@ count,subdomain
 395,vrops
 395,mpi-inf
 394,www.about
-394,www.ws
 394,supplier
 394,oferta
 394,www.cs
@@ -3863,6 +3863,7 @@ count,subdomain
 319,www.finance
 319,sni153738
 319,black
+319,composer
 319,mv
 319,www.in
 319,workspace
@@ -3880,7 +3881,6 @@ count,subdomain
 317,nzbhydra
 317,isc
 317,www.storage
-317,composer
 317,funda
 317,admission
 316,julie
@@ -4207,6 +4207,7 @@ count,subdomain
 294,csp
 294,42
 294,ivan
+294,php70
 294,whataboutsecondbreakfast
 294,*.andregiglio
 294,pij
@@ -4234,7 +4235,6 @@ count,subdomain
 292,media0
 292,bet
 292,maquette
-292,php70
 292,stepstone
 292,*.raffaelemoretti
 292,sni77652
@@ -5708,6 +5708,7 @@ count,subdomain
 220,storm
 220,dennis
 220,village
+220,activation
 220,ym06
 220,nielsenprod
 220,newark
@@ -5761,7 +5762,6 @@ count,subdomain
 218,pdc
 218,www.ufa
 218,perpus
-218,activation
 218,insegnaredigitale
 218,ap1
 218,vsc
@@ -5838,6 +5838,7 @@ count,subdomain
 215,cats
 215,like
 215,cdn6
+215,www.ps
 215,acpt
 215,www.staging7
 215,microsites
@@ -5860,12 +5861,12 @@ count,subdomain
 214,mail.www
 214,telecom
 214,modeloftk
+214,novosite
 214,active
 214,django
 214,isa
 214,crystal
 214,pittsburgh
-214,www.ps
 214,www.divi
 214,www.repo
 214,test11
@@ -5915,7 +5916,6 @@ count,subdomain
 212,turkey
 212,www.hd
 212,skynet
-212,novosite
 212,evaluation
 212,ucrm
 212,retro
@@ -7134,6 +7134,7 @@ count,subdomain
 175,rdv
 175,foros
 175,experts
+175,www.ead
 175,anton
 175,sickbeard
 175,puzzle
@@ -7176,7 +7177,6 @@ count,subdomain
 174,hunter
 174,adk
 174,www.exam
-174,www.ead
 174,lab1
 174,51
 174,audi
