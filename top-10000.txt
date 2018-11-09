@@ -1,19 +1,19 @@
-# Generated 2018-11-09 19:02:04.240675
+# Generated 2018-11-09 20:02:16.901201
 count,subdomain
-63984291,*
-27126757,www
-4993669,mail
-3128390,webmail
-3070968,webdisk
-2932831,cpanel
-1263388,autodiscover
+63984298,*
+27126906,www
+4993719,mail
+3128395,webmail
+3070972,webdisk
+2932835,cpanel
+1263390,autodiscover
 216840,dev
-159526,test
+159530,test
 155183,m
 141824,blog
 109130,api
 107100,shop
-92752,staging
+92757,staging
 92417,whm
 90597,sni
 87009,admin
@@ -22,19 +22,19 @@ count,subdomain
 72099,demo
 69079,ftl
 68315,cloud
-59101,smtp
+59102,smtp
 58533,app
-51155,new
+51156,new
 49397,tls
 49368,support
 49325,mobile
-46975,ftp
+46977,ftp
 44011,beta
 41400,multidomain-prober
 41019,cdn
 36682,secure
 35955,forum
-35191,www.test
+35193,www.test
 34785,imap
 34390,www.blog
 34211,mgames
@@ -55,9 +55,9 @@ count,subdomain
 26530,news
 26345,server
 25952,stage
-25432,pop
+25433,pop
 25419,portal
-25337,remote
+25338,remote
 24910,web
 24380,sandbox
 23702,mbox12
@@ -307,7 +307,7 @@ count,subdomain
 4773,st
 4738,v1-prober
 4704,lists
-4665,extranet
+4666,extranet
 4655,oca
 4646,ad
 4644,staging2
@@ -435,7 +435,7 @@ count,subdomain
 3187,no
 3185,sync
 3185,update
-3181,book
+3183,book
 3175,www.secure
 3173,tracking
 3167,teste
@@ -455,7 +455,7 @@ count,subdomain
 3076,metricsclient.geneva.core
 3072,platform
 3068,cal
-3064,sales
+3065,sales
 3061,play
 3054,eng
 3046,pg
@@ -702,7 +702,7 @@ count,subdomain
 1914,sharepoint
 1900,xmpp
 1898,try
-1893,cart
+1894,cart
 1883,rancher
 1875,tracker
 1865,health
@@ -1278,9 +1278,9 @@ count,subdomain
 968,sni196854
 968,netdata
 967,emea
+966,*.staging
 966,instagram
 964,wolke
-964,*.staging
 962,yobit
 960,speedtest
 960,www.sklep
@@ -2307,6 +2307,7 @@ count,subdomain
 527,festival
 527,18
 527,church
+527,www.book
 527,orion
 527,explorer
 527,sup
@@ -2314,7 +2315,6 @@ count,subdomain
 526,maria
 526,sab
 526,www.wap
-526,www.book
 526,www.play
 526,iloveseries
 525,xx
@@ -2820,6 +2820,7 @@ count,subdomain
 443,servicios
 443,www.start
 443,outgoing
+443,eu-2
 443,kc
 443,gmail
 443,sni59539
@@ -2835,7 +2836,6 @@ count,subdomain
 442,cool-knight
 442,majorpaskett
 441,cockpit
-441,eu-2
 441,webmail.blog
 440,espanol
 440,nick
@@ -3815,6 +3815,7 @@ count,subdomain
 323,www.software
 323,cld
 323,anmeldung
+323,led
 323,georgia
 323,inet
 323,clientcare
@@ -3874,7 +3875,6 @@ count,subdomain
 318,text
 318,computer
 318,ipad
-318,led
 318,eu-central-1
 318,cbs
 318,rosadiniccolo
@@ -3889,6 +3889,7 @@ count,subdomain
 316,tor
 316,www.dev3
 316,town
+316,tennis
 316,www.au
 316,bugtracker
 316,videofarm
@@ -3920,7 +3921,6 @@ count,subdomain
 314,mailhost
 314,hindi
 314,plm
-314,tennis
 314,pliki
 314,poll
 314,php56
@@ -4793,6 +4793,7 @@ count,subdomain
 259,benjamin
 259,lucas
 259,official
+259,premier
 259,stg3
 259,frontrange
 259,sni67139
@@ -4890,7 +4891,6 @@ count,subdomain
 255,eu0
 255,sni250422
 255,ucs
-255,premier
 255,www.rds
 254,beer
 254,ocm
@@ -5847,6 +5847,7 @@ count,subdomain
 215,microsites
 215,www.adfs
 215,web4
+215,altus
 215,bnk
 215,funzionipredefinite
 215,sni52041
@@ -5951,7 +5952,6 @@ count,subdomain
 211,www.ms
 211,www.da
 211,nodered
-211,altus
 211,www.design61
 210,investment
 210,prive
@@ -6260,6 +6260,7 @@ count,subdomain
 200,elizabeth
 200,vcard
 200,apl
+200,sunny
 200,bas
 200,louis
 200,rpg
@@ -6309,7 +6310,6 @@ count,subdomain
 198,adminemail
 198,onepage
 198,www.sa
-198,sunny
 198,metropolis
 198,www.ventas
 198,ultimate
@@ -7034,6 +7034,7 @@ count,subdomain
 178,atrium
 178,jerry
 178,julian
+178,arcelik
 178,meuapp
 178,www.jenkins
 178,cardadi
@@ -7103,7 +7104,6 @@ count,subdomain
 176,clientzone
 176,www.v
 176,tip
-176,arcelik
 176,corsi
 176,userdata
 176,advanceatnecb
@@ -7206,6 +7206,7 @@ count,subdomain
 174,profit
 174,working
 174,inc
+174,beko
 174,miele
 174,creation
 174,hf
@@ -7244,7 +7245,6 @@ count,subdomain
 173,pra
 173,www.articles
 173,www.dr
-173,beko
 173,bulletin
 173,depot
 173,mx02
@@ -8771,6 +8771,7 @@ count,subdomain
 144,cameron
 144,nicolaconvertino
 144,m200b343
+144,writer
 144,s04
 144,www.webapp
 144,platinum
@@ -8909,7 +8910,6 @@ count,subdomain
 142,lyrics
 142,sni175025
 142,lets
-142,writer
 142,web6
 142,posting
 142,www.tomsk
