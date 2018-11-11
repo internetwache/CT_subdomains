@@ -1,13 +1,13 @@
-# Generated 2018-11-11 07:03:17.228183
+# Generated 2018-11-11 08:02:55.124234
 count,subdomain
-63985605,*
-27131734,www
-4995128,mail
-3128848,webmail
-3071381,webdisk
-2933248,cpanel
-1263555,autodiscover
-216897,dev
+63985607,*
+27131837,www
+4995164,mail
+3128855,webmail
+3071388,webdisk
+2933255,cpanel
+1263556,autodiscover
+216898,dev
 159570,test
 155209,m
 141859,blog
@@ -63,7 +63,7 @@ count,subdomain
 23702,mbox12
 22300,fr
 21160,pop3
-20920,www.mail
+20921,www.mail
 20850,vpn
 20801,crm
 20513,www.shop
@@ -75,12 +75,12 @@ count,subdomain
 19058,media
 18603,home
 18574,core
-18316,de
+18317,de
 18180,autoconfig
 18157,us
 17926,info
 16640,r
-16616,old
+16617,old
 16575,poczta
 16468,ipv6
 16446,apps
@@ -93,7 +93,7 @@ count,subdomain
 14628,email
 14606,sip
 14335,stats
-14279,files
+14281,files
 14242,intranet
 14211,gitlab
 14187,ru
@@ -160,7 +160,7 @@ count,subdomain
 8629,jobs
 8534,v2
 8534,hosting
-8518,service
+8520,service
 8500,stg
 8428,zeus
 8382,sdp
@@ -289,7 +289,7 @@ count,subdomain
 4986,psql05
 4986,mysql08
 4986,psql04
-4976,upload
+4977,upload
 4945,backup
 4940,tv
 4933,sl
@@ -349,7 +349,7 @@ count,subdomain
 4125,secretstore
 4124,3
 4121,testonly.secretstore
-4118,correo
+4119,correo
 4104,dev1
 4089,sms
 4084,oc
@@ -385,7 +385,7 @@ count,subdomain
 3639,containers
 3593,get
 3589,wpc
-3584,boutique
+3586,boutique
 3559,legacy
 3557,cdn2
 3552,archive
@@ -684,7 +684,7 @@ count,subdomain
 1954,checkout
 1953,about
 1953,us-east-1
-1946,www.files
+1947,www.files
 1946,m.fr
 1945,mm
 1944,hana
@@ -755,7 +755,7 @@ count,subdomain
 1722,m.pt
 1720,ezproxy
 1718,full
-1715,pruebas
+1717,pruebas
 1714,is
 1711,php
 1710,ml
@@ -1134,9 +1134,9 @@ count,subdomain
 1088,ui.www
 1087,metrics
 1087,www.events
+1085,www.boutique
 1085,mdm
 1085,bt
-1084,www.boutique
 1082,rb
 1082,html
 1080,bilder
@@ -1824,6 +1824,7 @@ count,subdomain
 669,resource
 669,mark
 669,cit
+669,ba
 669,ucc
 668,www.uk
 668,server6
@@ -1831,7 +1832,6 @@ count,subdomain
 667,oud
 667,webbshop
 667,o2
-667,ba
 665,staging6
 665,www.landing
 665,singlepod-tobrutest
@@ -1953,6 +1953,7 @@ count,subdomain
 620,golf
 620,s8gonline
 619,www.b2b
+619,www.pruebas
 619,vk
 619,apis
 619,care
@@ -1960,7 +1961,6 @@ count,subdomain
 619,*.officialeventilive
 619,cfapps
 618,tokyo
-618,www.pruebas
 618,pf
 618,wp3
 617,www.upload
@@ -5488,6 +5488,7 @@ count,subdomain
 228,render
 228,broadcast
 228,tree
+228,swagger
 228,series
 228,ecole
 228,codex
@@ -5506,7 +5507,6 @@ count,subdomain
 228,presepioremedello
 228,principalimage
 227,aac
-227,swagger
 227,inspire
 227,johnson
 227,wix
@@ -7059,6 +7059,7 @@ count,subdomain
 178,mvpprothemes
 177,www.product
 177,vl
+177,resto
 177,www.taxi
 177,aws1
 177,socios
@@ -7223,7 +7224,6 @@ count,subdomain
 174,onlineadvert
 173,vh
 173,gfx
-173,resto
 173,www.tests
 173,pu
 173,qualif
@@ -17008,6 +17008,7 @@ count,subdomain
 79,www.test6
 79,publictest21
 79,www.women
+79,www.ba
 79,gamedev
 79,gmat
 79,vpn01
@@ -17217,7 +17218,6 @@ count,subdomain
 78,*.media
 78,www.ipad
 78,cbe
-78,www.ba
 78,eclipse95
 78,ssi
 78,qa02mini
@@ -18675,6 +18675,7 @@ count,subdomain
 73,pei
 73,takeda
 73,dayton
+73,sandbox3
 73,pico
 73,lovesaemi
 73,spd
@@ -18984,7 +18985,6 @@ count,subdomain
 72,raspberry
 72,www.orel
 72,webpay
-72,sandbox3
 72,financemarket
 72,financework
 72,firstfinance
@@ -21926,6 +21926,7 @@ count,subdomain
 64,neotokio
 64,norman
 64,sni62557
+64,bridgeport
 64,www.poll
 64,proxmox2
 64,r6
@@ -22778,7 +22779,6 @@ count,subdomain
 62,harrypotteritalia
 62,arredamentisumisuroma
 62,carmelo86
-62,bridgeport
 62,united-states
 62,comunidade
 62,www.ujian
@@ -23994,6 +23994,7 @@ count,subdomain
 59,bap
 59,sni51082
 59,dataviz
+59,www.resto
 59,www.bmw
 59,repositories
 59,lasalle
@@ -24386,7 +24387,6 @@ count,subdomain
 58,www.web3
 58,www.sftp
 58,filedrop
-58,www.resto
 58,emu
 58,bomm
 58,trigger
@@ -39975,6 +39975,7 @@ count,subdomain
 40,thruk
 40,lagersvoordefiets
 40,forgefonia
+40,nri
 40,n7
 40,cdnstg
 40,sentry.dev
@@ -42732,7 +42733,6 @@ count,subdomain
 38,come
 38,toolset
 38,norwood
-38,nri
 38,sni219600
 38,sni209896
 38,nightlife
@@ -95130,6 +95130,7 @@ count,subdomain
 22,skyonline
 22,messina
 22,sassari
+22,ravenna
 22,trieste
 22,pavia
 22,bestmattressforbadback
@@ -98478,6 +98479,7 @@ count,subdomain
 22,blackfridaycomputer
 22,aclaycomb0660524
 22,ganjaapps
+22,santanvalley
 22,mpmap
 22,sni179905
 22,*.giradas
@@ -99998,5 +100000,3 @@ count,subdomain
 22,alerto-com-pl
 22,www.macao
 22,spokopozyczki
-22,ktj
-22,dcserwer
